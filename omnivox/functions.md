@@ -1,4 +1,4 @@
-# Omnivox基本功能
+# Omnivox各项选择介绍
 
 ### 目录
 <!--
@@ -30,6 +30,12 @@ Personal Profile
 - <a href="#modify">Modify Password</a>
 - <a href="#security">Questions in Case you Forget your Password</a>
 - <a href="#external">Reinitialize External Services</a>
+  
+  
+[Léa]()
+  
+  
+[Mio]()
 
 ## My Omnivox Services
   
