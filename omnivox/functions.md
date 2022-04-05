@@ -1,9 +1,6 @@
 # Omnivox基本功能
 
 ### 目录
-My Service:  
-  
-  
 <!--
 <a href="#"></a>
 <h3 id=""></h3>
