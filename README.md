@@ -10,7 +10,7 @@
 
 ### Omnivox相关：
 - [Omnivox及学校邮箱账号密码]
-- [Omnivox基本功能介绍]
+- [Omnivox基本功能介绍](./omnivox/functions.md)
 - 
 
 ### 签证申请&交学费相关：
