@@ -1,6 +1,10 @@
 # Omnivox各项选择介绍
 
 ### 目录
+
+## [Léa]()
+
+## [Mio]()
 <!--
 <a href="#"></a>
 <h3 id=""></h3>
@@ -32,11 +36,6 @@ Personal Profile
 - <a href="#external">Reinitialize External Services</a>
   
   
-[Léa]()
-  
-  
-[Mio]()
-
 ## My Omnivox Services
   
 <h3 id="academic">Academic Advisor/Counsellor Appointment</h3>
