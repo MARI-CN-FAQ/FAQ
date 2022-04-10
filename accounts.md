@@ -5,7 +5,7 @@
   
   
 ## 学校邮箱帐号密码
-学校邮箱由Microsoft提供，可以去[Outlook](outlook.com)登录。
+学校邮箱由Microsoft提供，可以去[Outlook](https://outlook.live.com/owa/)登录。
 学校邮箱有两种格式，两者都指向同一个邮箱，所以用哪个格式登录都可以。
   
 格式1: firstname.lastname@office.marianopolis.edu
