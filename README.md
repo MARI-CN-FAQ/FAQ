@@ -9,7 +9,7 @@
 ## FAQ List:
 
 ### Omnivox相关：
-- [Omnivox及学校邮箱账号密码]
+- [Omnivox帐号密码/学校邮箱账号密码](./accounts.md)
 - [Omnivox基本功能介绍](./omnivox/functions.md)
 - 
 
