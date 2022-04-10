@@ -11,7 +11,6 @@
 ### Omnivox相关：
 - [Omnivox帐号密码/学校邮箱账号密码](./accounts.md)
 - [Omnivox基本功能介绍](./omnivox/functions.md)
-- 
 
 ### 签证申请&交学费相关：
 - [在读证明/录取通知书]
