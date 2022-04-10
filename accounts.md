@@ -12,7 +12,7 @@
   
 格式2: studentnumber@marianopolis.com
   
-###举例：
+### 举例：
 First Name: John
 Last Name: Wick
 Student Number: 2230330
