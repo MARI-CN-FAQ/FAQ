@@ -12,6 +12,8 @@
   
 格式2: studentnumber@marianopolis.com
   
+初始密码：permanentcode# （可修改）
+
 ### 举例：
 First Name: John
   
@@ -19,6 +21,10 @@ Last Name: Wick
   
 Student Number: 2230330
   
+Permanent Code: WICJ20240901
+  
 格式1: john.wick@office.marianopolis.edu
   
 格式2: 2230330@marianopolis.com
+  
+初始密码：WICJ20240901#
