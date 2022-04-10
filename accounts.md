@@ -14,7 +14,11 @@
   
 ### 举例：
 First Name: John
+  
 Last Name: Wick
+  
 Student Number: 2230330
+  
 格式1: john.wick@office.marianopolis.com
+  
 格式2: 2230330@marianopolis.com
