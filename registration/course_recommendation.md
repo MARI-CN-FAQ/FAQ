@@ -1,7 +1,7 @@
 # 选课&老师推荐
 
 ## 推荐格式:
-- 老师们的教学方式粗略分成了三个流派：**现写板书，ppt，notepack**
+- 老师们的教学方式粗略分成了三个流派：**现写板书流，ppt流，notepack流**
 - 理科、英语、法语按老师分，因为教学内容都一样（101 & 102)，or老师对胃口比课程选题更重要
 - Humanity按课题分，因为这个科的课题感兴趣很重要（至少写这里的人是这样认为的）
 - 使用✅来表示推荐程度
@@ -9,10 +9,10 @@
   
 ## 目录
 <a href="#cal_linear">**Calculus & Linear**</a>  
-- <a href="#lim">Lim Wee Keong✅✅✅</a>
+- <a href="#lim">Lim Wee Keong✅</a>
 - <a href="#qian">Wang Qian</a>
-- <a href="#godin">Veronique Godin✅</a>
-- <a href="#egan">Matthew Egan</a>
+- <a href="#godin">Veronique Godin✅✅</a>
+- <a href="#egan">Matthew Egan✅</a>
   
 <a href="#phys">**Physics**</a>  
 - <a href="#sabik">Simon Sabik✅✅✅</a>
@@ -27,19 +27,19 @@
 - <a href="#oberholzer">Ursula Oberholzer✅✅</a>
   
 <a href="#hum">**Humanities**</a>  
-- <a href="#sss">*Sex, Science, and Society*: Veronica Ponce</a>
+- <a href="#sss">*Sex, Science, and Society*: Veronica Ponce✅✅</a>
 - <a href="#monster">*Strangers, Gods, and Monsters*: Venessa Sasson✅✅</a>
-- <a href="#cul_approp">*Ethics & Cultural Appropriation*: Marie Lortie</a>
+- <a href="#cul_approp">*Ethics & Cultural Appropriation*: Marie Lortie✅✅</a>
 - <a href="#progress">*Just Progress: the Ethics of Innovation*: Lisa Sumner</a>
   
 <a href="#eng">**English**</a>  
 - <a href="#pedersen">Susan Pedersen✅✅</a>
 - <a href="#brigitte">Brigitte Boudread</a>
-- <a href="#malott">Paul Malott</a>
+- <a href="#malott">Paul Malott✅✅</a>
   
 <a href="#fr">**French**</a>  
-- <a href="#page">Sylvain Pagé</a>
-- <a href="#soucy">Lily Soucy</a>
+- <a href="#page">Sylvain Pagé✅</a>
+- <a href="#soucy">Lily Soucy✅✅</a>
 
   
 ---
@@ -47,34 +47,34 @@
   
 <h3 id="lim">Lim Wee Keong</h3>
   
-- 现写板书  
+- 现写板书流  
 - 优点：Tough love representative, 非常非常幽默教得巨好
 - 缺点：作业、Midterm难度高
   
 <h3 id="qian">Wang Qian</h3>
   
-- notepack  
+- notepack流  
 - 优点：office hour会中文讲题  
 - 缺点：上课中国口音很重，不习惯的听她讲课有点费劲（也可以是一个可爱的卖点）
   
 <h3 id="godin">Veronique Godin</h3>
   
-- notepack  
+- notepack流  
 - 优点：六边形战士；人很幽默，课讲得很明白；与Lim不相上下  
 - 缺点：作业Grading会比较严格  
   
 <h3 id="egan">Matthew Egan</h3>
 
-- 现写板书
+- 现写板书流
 - 优点：人很好很温柔，讲的很清楚
 - 缺点：因为声音过于磁性所以上课很容易困，从而漏掉一些知识点
-- 
+- 特点：上课会讲冷笑话
   
 <h2 id="phys">Physics</h2>
   
 <h3 id="sabik">Simon Sabik</h3>
   
-- 现写板书
+- 现写板书流
 - 优点：讲课废话很少、笔记非常精简
 - 这个人聪明到 如果你提出一个不理解的地方/问题， 他能立马领悟你是什么导致了你的困惑 并且有非常简单的语言给你指出来 straight to the point
 - 他讲课非常快 但是我上他的课的strategy就是，一有不理解的就举手问问题。他特别愿意回答 而且如果你一直没有理解 他会很认真的讲很多遍（啊对对对只要你自己不烦一直问 他也必不会烦一直给你讲
@@ -83,7 +83,7 @@
   
 <h3 id="dayon">Matthieu Dayon</h3>
   
-- ppt
+- ppt流
 - 激情讲课派
 - 优点：好！人！好老师！
 - 没有Sabik那么厉害在于 有时候他不能马上听懂你的问题（like想不到你因为什么不理解）但是他真的会用无数种方式给你讲 直到你说你懂了
@@ -93,14 +93,14 @@
   
 <h3 id="jason">Jason Li</h3>
   
-- ppt
+- ppt流
 - 颓废派（？）：与上面的激情派Dayon形成鲜明对比
 - 优点：讲的很清楚没有废话，笔记很清楚，quiz不难，书上的题会留范围练习
 - 缺点：真的有点没激情容易困
   
 <h3 id="butt">Roby Butt</h3>
   
-- notepack
+- notepack流
 - 他是一个有点话唠的老师 学生问一个问题他会讲好久，不止是把这个问题给学生讲明白，他还会不由自主地扩展，往外延伸。有的时候会觉得有点extra，但同时又觉得他真的很敬业很希望自己可以inspire到学生
 - 优点：发mio问问题，他会在回答里把问题copy下来在里边跟着问问题的思路一步步做批注的老师（并且使用不同颜色的字）。每一次发邮件问问题，得到的回信都像一篇小论文。（真的是认真到有点过头的老师）。
 - 缺点：话很多，quiz有点难
@@ -109,14 +109,14 @@
   
 <h3 id="barrie">Christine Barrie</h3>
   
-- ppt
+- ppt流
 - 优点：ppt什么都有，考点全在上面
 - 缺点：讲课有点无聊（因为bio1刚开始讲基础的时候很难讲得有意思） 但是后面当你了解了基础之后就会发现它的乐趣
 - 一些上课建议：建议认真整理他ppt上的知识，ppt虽然全面但是我觉得有点地方逻辑顺序不是太通，并且整理ppt的这个过程真的很能帮助记知识。
   
 <h3 id="oberholzer">Ursula Oberholzer</h3>
   
-- notepack
+- notepack流
 - 优点：非常宽容祥和慈爱的人
 - 讲课很清楚，给notepack一起填空一起画图，复习起来很方便
 - 每一个章节都会发practice quiz，在全是知识点没什么题做的bio2里 很沙漠中的绿洲了
@@ -125,6 +125,7 @@
   
 <h3 id="sss"><i>Sex, Science and Society</i>: Veronica Ponce</h3>
   
+- notepack流
 - Sex education & ethics
 - 优点：老师人很好；内容很有趣（很黄色）但是很受教；essay好写，分一般不会低
 - 缺点：欢迎补充差评
@@ -148,11 +149,36 @@
   
 <h3 id="pedersen">Susan Pedersen</h3>
   
+- 现写板书流
 - 优点：上过的都说好；人很nice，能学到东西；essay给分高
 - 她选的文章都特别的精彩：她102英语的主题叫the American Short Stories；每一个故事都很经典，阅读体验很好，都很难忘很有意思。
 - 缺点：欢迎补充差评
   
 <h3 id="brigitte">Brigitte Boudreau</h3>
 
+- ppt流
+- 优点：老师人很好，essay批改很认真
+- 缺点：感觉老师上课容易紧张，说话会有点磕磕绊绊的，讲课大部分时间都是读ppt
+  
+<h3 id="malott">Paul Malott</h3>
+
+- ppt + 现写板书流
 - 优点：欢迎补充
 - 缺点：欢迎补充
+  
+<h2 id="fr">French</h2>
+  
+<h3 id="page">Sylvain Pagé</h3>
+  
+- ppt（课后不会上传omnivox，final前会给）
+- 优点：上课非常活跃，内容非常有趣；
+- 缺点：essay语法改的很严，不好拿分；essay反馈修改意见较少
+- 注意：老师政治立场很鲜明，上课偶尔会有政治观点出现，如不喜欢不建议选
+  
+<h3 id="soucy">Lily Soucy</h3>
+  
+- ppt + 现写板书
+- ppt内容很多都是丰富课外知识；跟要求读的书相关的建议记笔记
+- 优点：人很nice；essay批改会给出很客观的修改意见，拿分难度一般
+- 缺点：欢迎补充
+- 特点：魁北克口音有点重
