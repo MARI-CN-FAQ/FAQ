@@ -5,7 +5,12 @@
 - 理科、英语、法语按老师分，因为教学内容都一样（101)，or老师对胃口比课程选题更重要
 - Humanity按课题分，因为这个科的课题感兴趣很重要（至少写这里的人是这样认为的）
 - 使用✅来表示推荐程度
+- 此页面挑出了一些大家都比较认同的点
 - 有想要补充评价的朋友请联系群主or管理员！
+  
+## 其他同学的老师推荐
+- <a href="https://docs.google.com/spreadsheets/d/1bpZ7DSdvNdBORZi8RXUnD1wBQ7D3qpOuVoE5CcGfwfs/edit?fbclid=IwAR2SzsH0NSflm8-QlJZIomfYb1DdyMCfsRJDhptoxDB6FRmAopZlGngHwgo#gid=1130331977">Mari Discord (英语）</a>
+- <a href="https://docs.google.com/document/d/1WWzg_ZjDYPkpd6SvVz6CdfulMWhRPl0Yc8Mn9o3joVw/edit#">个人主观评价（中文）</a>
   
 ## 目录
 <a href="#cal_linear">**Calculus & Linear**</a>  
@@ -25,6 +30,7 @@
 <a href="#bio">**Biology**</a>  
 - <a href="#barrie">Christine Barrie✅</a>
 - <a href="#oberholzer">Ursula Oberholzer✅✅</a>
+- <a href="#charlie">Celestino Di Flumeri✅</a>
   
 <a href="#hum">**Humanities**</a>  
 - <a href="#sss">*Sex, Science, and Society*: Veronica Ponce✅✅</a>
@@ -45,7 +51,7 @@
 ---
 <h2 id="cal_linear">Calculus & Linear</h2>
   
-<h3 id="lim">Lim Wee Keong</h3>
+<h3 id="lim">Lim Wee Keong✅</h3>
   
 - 现写板书流  
 - 优点：Tough love representative, 非常非常幽默教得巨好
@@ -57,13 +63,13 @@
 - 优点：office hour会中文讲题  
 - 缺点：上课中国口音很重，不习惯的听她讲课有点费劲（也可以是一个可爱的卖点）
   
-<h3 id="godin">Veronique Godin</h3>
+<h3 id="godin">Veronique Godin✅✅</h3>
   
 - notepack流  
 - 优点：六边形战士；人很幽默，课讲得很明白；与Lim不相上下  
 - 缺点：作业Grading会比较严格  
   
-<h3 id="egan">Matthew Egan</h3>
+<h3 id="egan">Matthew Egan✅</h3>
 
 - 现写板书流
 - 优点：人很好很温柔，讲的很清楚
@@ -72,7 +78,7 @@
   
 <h2 id="phys">Physics</h2>
   
-<h3 id="sabik">Simon Sabik</h3>
+<h3 id="sabik">Simon Sabik✅✅✅</h3>
   
 - 现写板书流
 - 优点：讲课废话很少、笔记非常精简
@@ -81,7 +87,7 @@
 - 温温柔柔可可爱爱还很幽默 T-T
 - 缺点：非要说的话 mechanics刚开始讲得飞快 过于精简（？
   
-<h3 id="dayon">Matthieu Dayon</h3>
+<h3 id="dayon">Matthieu Dayon✅</h3>
   
 - ppt流
 - 激情讲课派
@@ -98,7 +104,7 @@
 - 优点：讲的很清楚没有废话，笔记很清楚，quiz不难，书上的题会留范围练习
 - 缺点：真的有点没激情容易困
   
-<h3 id="butt">Roby Butt</h3>
+<h3 id="butt">Roby Butt✅✅✅✅</h3>
   
 - notepack流
 - 他是一个有点话唠的老师 学生问一个问题他会讲好久，不止是把这个问题给学生讲明白，他还会不由自主地扩展，往外延伸。有的时候会觉得有点extra，但同时又觉得他真的很敬业很希望自己可以inspire到学生
@@ -107,19 +113,27 @@
   
 <h2 id="bio">Biology</h2>
   
-<h3 id="barrie">Christine Barrie</h3>
+<h3 id="barrie">Christine Barrie✅</h3>
   
 - ppt流
 - 优点：ppt什么都有，考点全在上面
 - 缺点：讲课有点无聊（因为bio1刚开始讲基础的时候很难讲得有意思） 但是后面当你了解了基础之后就会发现它的乐趣
 - 一些上课建议：建议认真整理他ppt上的知识，ppt虽然全面但是我觉得有点地方逻辑顺序不是太通，并且整理ppt的这个过程真的很能帮助记知识。
   
-<h3 id="oberholzer">Ursula Oberholzer</h3>
+<h3 id="oberholzer">Ursula Oberholzer✅✅</h3>
   
 - notepack流
 - 优点：非常宽容祥和慈爱的人
 - 讲课很清楚，给notepack一起填空一起画图，复习起来很方便
 - 每一个章节都会发practice quiz，在全是知识点没什么题做的bio2里 很沙漠中的绿洲了
+- 欢迎补充差评
+  
+<h3 id="charlie">Celestino Di Flumeri✅</h3>
+  
+- notepack流
+- 优点：人很nice，会很认真回答问题
+- 缺点：欢迎补充差评
+- 特点：喜欢让学生叫他Charlie
   
 <h2 id="hum">Humanities</h2>
   
