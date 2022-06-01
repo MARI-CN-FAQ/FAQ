@@ -30,4 +30,11 @@
 在你确定你选择完本学期要修的课之后<b>一定要关掉progression chart</b>
 <br>不然可能会出现奇奇怪怪的bug
 <br>如果你要选择一门complementary的课程，就在course nunmber里输入COM并点击Add
-<br>第二种选课法就是在course number里直接输入课号（345-101-MQ，603-101-MQ， etc）
+<br>第二种选课法就是在course number里直接输入课号（345-101-MQ，603-101-MQ，etc)
+<br>我个人比较喜欢直接按加号（能一口气全加完），但也有同学表示用快捷键加课号会更快一点。具体情况得由你们亲自去尝试
+<br>接下来说选课技巧
+![屏幕截图(118)](https://user-images.githubusercontent.com/103059897/171518585-e7f4be50-d744-4848-ab25-f1043bb2d086.png)
+<br>点击try all之后你会看到这个弹窗
+<br>取消掉你不想要的sections和老师之后点击ok
+![屏幕截图(120)](https://user-images.githubusercontent.com/103059897/171518742-96725ea5-8177-4951-8b25-e68ecc471062.png)
+<br>如果你只选了一个section的话multiple choice那一块会显示准确的section number
