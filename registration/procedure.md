@@ -42,3 +42,17 @@
 ![屏幕截图(120)](https://user-images.githubusercontent.com/103059897/171518742-96725ea5-8177-4951-8b25-e68ecc471062.png)
 
 <br>如果你只选了一个section的话multiple choice那一块会显示准确的section number
+<br>不要管别的try all， 直接点show all possible course schedule 
+
+![屏幕截图(121)](https://user-images.githubusercontent.com/103059897/171519056-78ed4d3a-50a7-499e-abd6-365fd28b4b6a.png)
+
+<br>然后随便选一个schedule （点select the schedule并输入密码）
+
+![屏幕截图(123)](https://user-images.githubusercontent.com/103059897/171519277-343ce724-ce1e-4f20-a4ae-8a2fb9fc86b9.png)
+
+<br>这样子你就得到了一门你选择的section与多门try all的课表
+<br>在你输入密码之后你选择的那门课的位置就是你的了，不会被别人取代
+<br>现在你回到了主页，<b>不要点course schdule！，不要点course schdule！，不要点course schdule！</b>
+
+
+
