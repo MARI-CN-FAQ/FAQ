@@ -29,3 +29,5 @@
 
 在你确定你选择完本学期要修的课之后<b>一定要关掉progression chart</b>
 <br>不然可能会出现奇奇怪怪的bug
+<br>如果你要选择一门complementary的课程，就在course nunmber里输入COM并点击Add
+<br>第二种选课法就是在course number里直接输入课号（345-101-MQ，603-101-MQ， etc）
