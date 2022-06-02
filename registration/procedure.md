@@ -13,7 +13,7 @@
 
 ![屏幕截图(103)](https://user-images.githubusercontent.com/103059897/171048418-79374962-4ad0-4cb5-9510-988ce3a969d3.png)
 
-点ok就行了，不推荐浪费珍贵的十秒读（或者现在就读了也可以）。
+点continue就行了，不推荐浪费珍贵的十秒读（或者现在就读了也可以）。
 <br>然后你就会来到选课界面
 
 ![屏幕截图(107)](https://user-images.githubusercontent.com/103059897/171048837-802fdb0c-3928-4c3d-8d8b-dad229310160.png)
