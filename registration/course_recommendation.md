@@ -50,7 +50,7 @@
 - <a href="#soucy">Lily Soucy✅✅</a>
   
 <a href="#com">**Complementary**</a>  
-- <a href="#ecs">Enhancing Computer Skills</a>
+- <a href="#ecs">Enhancing Computer Skills✅✅</a>
 - <a href="#webpage">Web Page Design</a>
 - <a href="#com_graph">Computer Graphics</a>
 - <a href="#IR">Introduction to International Relationship</a>
@@ -206,7 +206,7 @@
   
 <h2 id="com">Complementary</h2>
   
-<h3 id="ecs">Enhancing Computer Skills✅✅</h3>
+<h3 id="ecs">Enhancing Computer Skills</h3>
   
 - 基本上是大家公认的划水课
 - 会学到：相信大部分人都不一定知道的Word使用技巧
