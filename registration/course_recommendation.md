@@ -20,11 +20,12 @@
 - <a href="#qian">Wang Qian</a>
 - <a href="#godin">Veronique Godin✅✅</a>
 - <a href="#egan">Matthew Egan✅</a>
-  
+
 <a href="#phys">**Physics**</a>  
 - <a href="#sabik">Simon Sabik✅✅✅</a>
 - <a href="#dayon">Matthieu Dayon✅</a>
-  
+- <a href="#roger">Patrick Roger✅</a>
+
 <a href="#chem">**Chemistry**</a>  
 - <a href="#jason">Jason Li</a>
 - <a href="#butt">Roby Butt✅✅✅✅</a>
@@ -101,6 +102,12 @@
 - 优点：好！人！好老师！
 - 没有Sabik那么厉害在于 有时候他不能马上听懂你的问题（like想不到你因为什么不理解）但是他真的会用无数种方式给你讲 直到你说你懂了
 - 缺点：考点能讲明白，更深层的问题回答不清楚
+
+<h3 id="roger">Patrick Roger✅</h3>
+
+- 现写板书流
+- 优点：人很有趣，每节课开始前都会讲一个冷笑话。讲的很清晰。他挑选的review questions能很好的帮你理解内容。
+- 缺点：课上必须得时时刻刻的听着, ppt里除了问题只有很少的课程内容（问题还没有答案）。重点都必须在课上follow不然私底下自习会有难度。（而且他看到你在刷手机摸鱼还会特地叫你回答问题
   
 <h2 id="chem">Chemistry</h2>
   
