@@ -4,7 +4,7 @@
 - 老师们的教学方式粗略分成了三个流派：**现写板书流，ppt流，notepack流**
 - 理科、英语、法语按老师分，因为教学内容都一样（101)，or老师对胃口比课程选题更重要
 - Humanity、Complementary按课题分，因为对课题感兴趣很重要（至少写这里的人是这样认为的）
-- 使用✅来表示推荐程度
+- 使用✅来表示推荐程度（主观推荐经供参考）
 - 此页面挑出了一些大家都比较认同的点
 - 由于主要编写成员都是Science的，所以文科类选修课开始不会有（或很少）介绍
 - 有想要补充评价的朋友请联系群主or管理员！
@@ -24,12 +24,13 @@
 <a href="#phys">**Physics**</a>  
 - <a href="#sabik">Simon Sabik✅✅✅</a>
 - <a href="#dayon">Matthieu Dayon✅</a>
-- <a href="#roger">Patrick Roger✅</a>
+- <a href="#roger">Patrick Roger</a>
 
 <a href="#chem">**Chemistry**</a>  
 - <a href="#jason">Jason Li</a>
 - <a href="#butt">Roby Butt✅✅✅✅</a>
-  
+- <a href="#halab">Liliane Halab✅✅</a>
+
 <a href="#bio">**Biology**</a>  
 - <a href="#barrie">Christine Barrie✅</a>
 - <a href="#oberholzer">Ursula Oberholzer✅✅</a>
@@ -103,11 +104,11 @@
 - 没有Sabik那么厉害在于 有时候他不能马上听懂你的问题（like想不到你因为什么不理解）但是他真的会用无数种方式给你讲 直到你说你懂了
 - 缺点：考点能讲明白，更深层的问题回答不清楚
 
-<h3 id="roger">Patrick Roger✅</h3>
+<h3 id="roger">Patrick Roger</h3>
 
 - 现写板书流
 - 优点：人很有趣，每节课开始前都会讲一个冷笑话。讲的很清晰。他挑选的review questions能很好的帮你理解内容。
-- 缺点：课上必须得时时刻刻的听着, ppt里除了问题只有很少的课程内容（问题还没有答案）。重点都必须在课上follow不然私底下自习会有难度。（而且他看到你在刷手机摸鱼还会特地叫你回答问题
+- 缺点：课上必须得时时刻刻的听着, ppt里除了问题只有很少的课程内容（答案还只在课上给）。重点都必须在课上follow不然私底下自习会有难度。（而且他看到你在刷手机摸鱼还会特地叫你回答问题
   
 <h2 id="chem">Chemistry</h2>
   
@@ -124,7 +125,12 @@
 - 他是一个有点话唠的老师 学生问一个问题他会讲好久，不止是把这个问题给学生讲明白，他还会不由自主地扩展，往外延伸。有的时候会觉得有点extra，但同时又觉得他真的很敬业很希望自己可以inspire到学生
 - 优点：发mio问问题，他会在回答里把问题copy下来在里边跟着问问题的思路一步步做批注的老师（并且使用不同颜色的字）。每一次发邮件问问题，得到的回信都像一篇小论文。（真的是认真到有点过头的老师）。
 - 缺点：话很多，quiz有点难
-  
+
+<h3 id="halab">Liliane Halab✅✅</h3>
+- ppt流
+- 慈祥（？）的女老师，很多问题都可以通俗的解释清楚。经常布置一些送分的assignments
+- 优点：ppt里什么都有！理论上来说哪怕你一节课不上只看ppt都可以准备好考试（当然翘课太多会被开除的）。assigments基本上只要对着ppt里的example做就能拿满分
+- 缺点：课程有些无聊，而且特别容易犯困
 <h2 id="bio">Biology</h2>
   
 <h3 id="barrie">Christine Barrie✅</h3>
