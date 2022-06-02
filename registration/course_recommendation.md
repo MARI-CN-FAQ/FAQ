@@ -54,8 +54,8 @@
 <a href="#com">**Complementary**</a>  
 - <a href="#ecs">Enhancing Computer Skills✅✅</a>
 - <a href="#webpage">Web Page Design</a>
-- <a href="#com_graph">Computer Graphics</a>
 - <a href="#IR">Introduction to International Relationship</a>
+- <a href="#com_graph">Computer Graphics（待补充）</a>
   
 ---
 <h2 id="cal_linear">Calculus & Linear</h2>
