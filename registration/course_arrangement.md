@@ -1,6 +1,6 @@
 # 排课工具&思路
   
-## 排课流程&一些思路
+## 排课流程&一些小建议
 
 ### 学校的官方文档写的是很清楚的，所以在这里还是附上官方的Registration Kit
 - [Registration Instrctions for Returning Students](registration_
