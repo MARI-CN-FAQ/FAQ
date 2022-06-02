@@ -33,11 +33,17 @@
 <br>第二种选课法就是在course number里直接输入课号（345-101-MQ，603-101-MQ，etc)
 <br>我个人比较喜欢直接按加号（能一口气全加完），但也有同学表示用快捷键加课号会更快一点。具体情况得由你们亲自去尝试
 <br>接下来说选课技巧
+<br>首先，确认你对每一门课的优先级（比如你想先抢生物，然后再抢数学，再抢物理）
+<br>然后再确认同一门课你想抢那个section
+<br>比如说你想要最先抢生物的section 00002， 那这个section就是你的A1。你的第二个选择是section 00004的话，那这个section就是你的A2
+<br>数学你最想抢section 00003的话，那这个section就是你的B1，次选是section 00017的话这个section就是你的B2
+<br>同理，你会有A1，A2...F6,F7的优先级排序
+<br>我们的目标是按照A1，B1，C1。。。G1的顺序抢课
 
 ![屏幕截图(118)](https://user-images.githubusercontent.com/103059897/171518585-e7f4be50-d744-4848-ab25-f1043bb2d086.png)
 
-<br>点击try all之后你会看到这个弹窗
-<br>取消掉你不想要的sections和老师之后点击ok
+<br>找到你优先级最高的课程并，点击try all之后你会看到这个弹窗
+<br>选择你最想要的section并点击ok
 
 ![屏幕截图(120)](https://user-images.githubusercontent.com/103059897/171518742-96725ea5-8177-4951-8b25-e68ecc471062.png)
 
@@ -53,6 +59,13 @@
 <br>这样子你就得到了一门你选择的section与多门try all的课表
 <br>在你输入密码之后你选择的那门课的位置就是你的了，不会被别人取代
 <br>现在你回到了主页，<b>不要点course schdule！，不要点course schdule！，不要点course schdule！</b>
-
+<br>点击course schedule之后你就无权再对课表进行任何修改了
+<br>回到registration，选择你的B课，并且找到你的B1.
+<br>如果B1已经被抢光了就选择你的B2
+<br>再进行以上的操作你就会得到一个A1,B1和其他try all的课表
+<br>多进行几次这个操作就可以在保证你抢到最高优先级课程的情况下抢优先级没那么高的课
+<br>你也可以在一轮中选中多个课程（比如说直接锁住A1,B1,C1),但这个选课的过程会多花几秒，你就可能会面对失去A1的风险
+<br>具体怎么取舍你自己决定
+<br>当你全部选择完之后回到主页，点击course schedule，你的选课就结束了。
 
 
