@@ -10,7 +10,7 @@
 ### 选课相关：
 - [选课流程](./registration/procedure.md)
 - [一些排课思路](./registration/course_arrangement.md)
-- [同学对老师的评价](./registration/course_recommendation.md)
+- [老师推荐](./registration/course_recommendation.md)
 - []  
 
 ### Omnivox相关：
