@@ -3,7 +3,8 @@
 ## 排课流程&一些小建议
 
 ### 学校的官方文档写的是很清楚的，所以在这里还是附上官方的Registration Kit
-- [Registration Instrctions for Returning Students](registration_
+- [Registration Instrctions for Returning Students](registration_instruction_returning.PDF)
+- [Registration FAQs](registration_faqs.PDF)
 
 ### 1. 首先一定是先在Progression Chart里确认这学期要上的课（This Term）
 ![f2c0bfb9f87f670053a4652806179c3](https://user-images.githubusercontent.com/103059897/171749519-e03e2524-894f-4caf-b3c4-1e1b6fc1087b.jpg)
