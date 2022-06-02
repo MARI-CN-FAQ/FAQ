@@ -37,7 +37,7 @@
 - <a href="#sss">*Sex, Science, and Society*: Veronica Ponce✅✅</a>
 - <a href="#monster">*Strangers, Gods, and Monsters*: Venessa Sasson✅✅</a>
 - <a href="#cul_approp">*Ethics & Cultural Appropriation*: Marie Lortie✅✅</a>
-- <a href="#progress">*Just Progress: the Ethics of Innovation*: Lisa Sumner</a>
+- <a href="#progress">*Just Progress: the Ethics of Innovation*: Lisa Sumner (待补充)</a>
   
 <a href="#eng">**English**</a>  
 - <a href="#pedersen">Susan Pedersen✅✅</a>
