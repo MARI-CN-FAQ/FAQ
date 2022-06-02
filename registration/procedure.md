@@ -37,12 +37,12 @@
 <br>然后再确认同一门课你想抢那个section
 <br>比如说你想要最先抢生物的section 00002， 那这个section就是你的A1。你的第二个选择是section 00004的话，那这个section就是你的A2
 <br>数学你最想抢section 00003的话，那这个section就是你的B1，次选是section 00017的话这个section就是你的B2
-<br>同理，你会有A1，A2...F6,F7的优先级排序
+<br>同理，你会有A1，A2...F6, F7的优先级排序
 <br>我们的目标是按照A1，B1，C1。。。G1的顺序抢课
 
 ![屏幕截图(118)](https://user-images.githubusercontent.com/103059897/171518585-e7f4be50-d744-4848-ab25-f1043bb2d086.png)
 
-<br>找到你优先级最高的课程并，点击try all之后你会看到这个弹窗
+<br>找到你优先级最高的课程，点击try all之后你会看到这个弹窗
 <br>选择你最想要的section并点击ok
 
 ![屏幕截图(120)](https://user-images.githubusercontent.com/103059897/171518742-96725ea5-8177-4951-8b25-e68ecc471062.png)
