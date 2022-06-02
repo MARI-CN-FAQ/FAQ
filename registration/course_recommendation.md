@@ -49,7 +49,7 @@
   
 <a href="#com">**Complementary**</a>  
 - <a href="#ecs">Enhancing Computer Skills</a>
-- <a href="#webpage">Webpage Desgin</a>
+- <a href="#webpage">Web Page Design</a>
 - <a href="#com_graph">Computer Graphics</a>
   
 ---
@@ -200,3 +200,23 @@
 - 优点：人很nice；essay批改会给出很客观的修改意见，拿分难度一般
 - 缺点：欢迎补充
 - 特点：魁北克口音有点重
+  
+<h2 id="com">Complementary</h2>
+  
+<h3 id="ecs">Enhancing Computer Skills</h3>
+  
+- 基本上是大家公认的划水课
+- 会学到：相信大部分人都不一定知道的Word使用技巧
+- 很基础的HTML5和CSS语言
+- 优点：简单、好拿分
+- 缺点：内容可能会有点冗长枯燥
+
+<h3 id="webpage">Web Page Design</h3>
+  
+- 能学到：很基础的网页设计
+- 在学期初的内容会跟Enhancing Computer Skills的有一些重叠
+- 相比于Enhancing Computer Skills能学到更多的CSS语言
+- 优点：有Final Project，无Final
+  
+<h3 id="graphics">Computer Graphics</h3>
+- 待补充
