@@ -7,6 +7,7 @@
 - 使用✅来表示推荐程度
 - 此页面挑出了一些大家都比较认同的点
 - 有想要补充评价的朋友请联系群主or管理员！
+- 由于主要编写成员都是Science的，所以文科类选修课开始不会有（或很少）介绍
   
 ## 其他同学的老师推荐
 - <a href="https://docs.google.com/spreadsheets/d/1bpZ7DSdvNdBORZi8RXUnD1wBQ7D3qpOuVoE5CcGfwfs/edit?fbclid=IwAR2SzsH0NSflm8-QlJZIomfYb1DdyMCfsRJDhptoxDB6FRmAopZlGngHwgo#gid=1130331977">Mari Discord (英语）</a>
