@@ -218,5 +218,5 @@
 - 相比于Enhancing Computer Skills能学到更多的CSS语言
 - 优点：有Final Project，无Final
   
-<h3 id="graphics">Computer Graphics</h3>
+<h3 id="com_graph">Computer Graphics</h3>
 - 待补充
