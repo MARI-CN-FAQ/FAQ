@@ -222,12 +222,12 @@
 - 优点：有Final Project，无Final
 
 
-<h3 id="com_IR">Introduction of International Relationship</h3>
+<h3 id="IR">Introduction of International Relationship</h3>
 
--会学到：从不同的角度去分析现代国际局势
--从现实主义，建构主义，一起其他的角度去分析中美关系及其他
--优点：老师给分很高（接近90的班级平均）
--缺点：需要写很多essay，而且有midterm考试
+- 会学到：从不同的角度去分析现代国际局势
+- 从现实主义，建构主义，一起其他的角度去分析中美关系及其他
+- 优点：老师给分很高（接近90的班级平均）
+- 缺点：需要写很多essay，而且有midterm考试
   
 <h3 id="com_graph">Computer Graphics</h3>
 - 待补充
