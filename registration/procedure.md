@@ -8,8 +8,8 @@
 ![屏幕截图(101)](https://user-images.githubusercontent.com/103059897/171047999-23d3d9ef-8d0e-4732-aa30-daab017a5f33.png)
 
 ## 2. 知道了自己该什么之后选课，你就可以先去排课表。直到选课开始前这个功能是不需要用的。
-<br>推荐在开始选课前30秒左右就开始刷新registration界面。准点刷新很容易卡。
-<br>当你的registration时间到了的时候，你会看到以下界面
+- 推荐在开始选课前30秒左右就开始刷新registration界面。准点刷新很容易卡。
+- 当你的registration时间到了的时候，你会看到以下界面
 
 ![屏幕截图(103)](https://user-images.githubusercontent.com/103059897/171048418-79374962-4ad0-4cb5-9510-988ce3a969d3.png)
 
