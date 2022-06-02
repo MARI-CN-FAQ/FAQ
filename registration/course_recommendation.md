@@ -127,6 +127,7 @@
 - 缺点：话很多，quiz有点难
 
 <h3 id="halab">Liliane Halab✅✅</h3>
+
 - ppt流
 - 慈祥（？）的女老师，很多问题都可以通俗的解释清楚。经常布置一些送分的assignments
 - 优点：ppt里什么都有！理论上来说哪怕你一节课不上只看ppt都可以准备好考试（当然翘课太多会被开除的）。assigments基本上只要对着ppt里的example做就能拿满分 
