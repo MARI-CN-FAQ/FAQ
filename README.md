@@ -20,7 +20,6 @@
 - [学校接受哪些支付方式？]
 - [学校银行国际转账信息]
 
-
 ### 教材相关：
 - [纸质新教材]
 - [往届学生的旧书]
@@ -38,3 +37,6 @@
 - [Cafeteria]
 - [Café]
 - [Wayne's World]
+
+### 一些小工具
+- [R-Score Calculator (by LiWei)](https://docs.google.com/spreadsheets/d/1hKyTmdjzOUBFOerlXWGwLWSHthPrJ48G7sr9oURl2zA/edit?usp=drivesdk)
