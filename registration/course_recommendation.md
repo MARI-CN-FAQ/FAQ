@@ -46,6 +46,7 @@
 - <a href="#pedersen">Susan Pedersen✅✅</a>
 - <a href="#brigitte">Brigitte Boudread</a>
 - <a href="#malott">Paul Malott✅✅</a>
+- <a href="#newell">Megan Newell✅✅✅</a>
   
 <a href="#fr">**French**</a>  
 - <a href="#page">Sylvain Pagé✅</a>
@@ -201,6 +202,13 @@
 - ppt + 现写板书流
 - 优点：Office Hour会很认真的对待，语法和用词揪得很但是也会给出适当的修改建议
 - 缺点：欢迎补充
+  
+<h3 id="newell">Megan Newell</h3>
+  
+- 现写板书流 + notepack流
+- 优点：给分高，上课轻松
+- 缺点：文件管理有问题 又多又乱（已开始改进）
+- 特点：她自己不乐意早起所以早八的课会晚15分钟开课；思维跳跃（一会儿上课一会儿唠嗑拉家常）；mio轰炸（基本都是节日祝福，看个人喜好）
   
 <h2 id="fr">French</h2>
   
