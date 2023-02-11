@@ -101,7 +101,7 @@
  <h3 id="flaming">David Flaming</h3>
  
  - 给分低，很严格
- - 非常注重用词表达，但没有具体的反馈。作文给出的很多评语都是"I can's understand或者“This is a major misunderstanding"
+ - 非常注重用词表达，但没有具体的反馈。作文给出的很多评语都是"I can's understand“或者“This is a major misunderstanding"
  - 给分真的不高，很锻炼人的心态。
 
  <h3 id="malot">Paul Malot</h3>
