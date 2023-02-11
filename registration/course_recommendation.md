@@ -45,12 +45,13 @@
 <a href="#eng">**English**</a>  
 - <a href="#pedersen">Susan Pedersen✅✅</a>
 - <a href="#brigitte">Brigitte Boudread</a>
-- <a href="#malott">Paul Malott✅✅</a>
+- <a href="#vann">Mathew vann✅✅</a>
 - <a href="#newell">Megan Newell✅✅✅</a>
   
 <a href="#fr">**French**</a>  
 - <a href="#page">Sylvain Pagé✅</a>
 - <a href="#soucy">Lily Soucy✅✅</a>
+- <a href="#larivière">Fanny Larivière✅✅</a>
   
 <a href="#com">**Complementary**</a>  
 - <a href="#ecs">Enhancing Computer Skills✅✅</a>
@@ -83,7 +84,7 @@
 
 - 现写板书流
 - 优点：人很好很温柔，讲的很清楚
-- 缺点：因为声音过于磁性所以上课很容易困，从而漏掉一些知识点
+- 缺点：讲课的速度很快。基本比别的班快1到2节课。请接受不了这种高速讲课方式的学生慎重考虑
 - 特点：上课会讲冷笑话
   
 <h2 id="phys">Physics</h2>
@@ -189,6 +190,7 @@
 - 现写板书流
 - 优点：上过的都说好；人很nice，能学到东西；essay给分高
 - 她选的文章都特别的精彩：她102英语的主题叫the American Short Stories；每一个故事都很经典，阅读体验很好，都很难忘很有意思。
+- 建议：她的102建议英语基础较好的人选，因为文章和考试其实比较难。
 - 缺点：欢迎补充差评
   
 <h3 id="brigitte">Brigitte Boudreau</h3>
@@ -197,11 +199,12 @@
 - 优点：老师人很好，essay批改很认真
 - 缺点：感觉老师上课容易紧张，说话会有点磕磕绊绊的，讲课大部分时间都是读ppt
   
-<h3 id="malott">Paul Malott</h3>
+<h3 id="vann">Mathew Vann</h3>
 
-- ppt + 现写板书流
-- 优点：Office Hour会很认真的对待，语法和用词揪得很但是也会给出适当的修改建议
-- 缺点：欢迎补充
+- ppt 
+- 优点：讲课文邹邹的，很有意思。人超级好，需要英语方面的帮助可以给他发mio。但可能回复的会有点慢。
+- 102英语的主题是跟超自然现象相关的恐怖小说，有兴趣的会很喜欢
+- 缺点：基本每节课都要小组讨论，社恐的人要考虑自己能不能克服心理障碍
   
 <h3 id="newell">Megan Newell</h3>
   
@@ -227,6 +230,15 @@
 - 缺点：课上阅读量较大，而且essay的成绩会集中到最后在一口气给
 - 特点：魁北克口音有一丢丢重
   
+  <h3 id="larivière">Fanny Larivière</h3>
+  
+- ppt 
+- ppt内容很多，但都是有用的东西。讲的内容比较适合101level的学生
+- 优点：人很nice，给分还可以，不是特别严
+- 课的主题是电影。喜欢电影的人会非常喜欢她的课。会从看电影出发教授课程。（比如：形容词）
+- 有时会要求小组讨论。但如果法语不是特别流利的可以用英语甚至中文交流。
+- 缺点：欢迎补充
+- 注意：这位老师更适合101的同学选。
 <h2 id="com">Complementary</h2>
   
 <h3 id="ecs">Enhancing Computer Skills</h3>
