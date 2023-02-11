@@ -99,7 +99,10 @@
  <h2 id="eng">English</h2>
 
  <h3 id="flaming">David Flaming</h3>
- -给分低，很严格
+ 
+ - 给分低，很严格
+ - 非常注重用词表达，但没有具体的反馈。作文给出的很多评语都是"I can's understand或者“This is a major misunderstanding"
+ - 给分真的不高，很锻炼人的心态。
 
  <h3 id="malot">Paul Malot</h3>
 
@@ -134,7 +137,7 @@
  - 想要拿高分只能尽量多的把她讲的几乎所有都背下来
  - 有pop quiz。并且她的quiz不是很简单
  - 作为一门complementary，这门课需要大量的时间和精力。如果本身课程就严重超负荷的也请避开
- - 这门课的r score很低。如果半平均分79，你考80，r分就只有26。
+ - 这门课的r score很低。如果班平均分79，你考80，r分就只有26。
 
  <h3 id="spanish">Spanish</h3>
 
