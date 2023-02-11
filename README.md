@@ -10,6 +10,7 @@
 - [选课流程](./registration/procedure.md)
 - [一些排课思路](./registration/course_arrangement.md)
 - [老师推荐](./registration/course_recommendation.md)
+- [老师避雷](./registration/course_nonrecommendation.md)
 
 ### Omnivox相关：
 - [Omnivox帐号密码/学校邮箱账号密码](./accounts.md)
