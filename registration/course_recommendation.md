@@ -58,6 +58,8 @@
 - <a href="#webpage">Web Page Design</a>
 - <a href="#IR">Introduction to International Relationship</a>
 - <a href="#com_graph">Computer Graphics（待补充）</a>
+- <a href="#digital">Digital Art</a>
+- <a href="#theatre">Theatre</a>
   
 ---
 <h2 id="cal_linear">Calculus & Linear</h2>
@@ -203,7 +205,8 @@
 
 - ppt 
 - 优点：讲课文邹邹的，很有意思。人超级好，需要英语方面的帮助可以给他发mio。但可能回复的会有点慢。
-- 102英语的主题是跟超自然现象相关的恐怖小说，有兴趣的会很喜欢
+- 102英语的主题是跟超自然现象相关的恐怖小说，比如克苏鲁。有兴趣的会很喜欢
+- 适合有一定英语基础的人，essay记住千万别跑题！！！
 - 缺点：基本每节课都要小组讨论，社恐的人要考虑自己能不能克服心理障碍
   
 <h3 id="newell">Megan Newell</h3>
@@ -235,6 +238,7 @@
 - ppt 
 - ppt内容很多，但都是有用的东西。讲的内容比较适合101level的学生
 - 优点：人很nice，给分还可以，不是特别严
+- 上她的课不需要记笔记，因为她都会发omnivox
 - 课的主题是电影。喜欢电影的人会非常喜欢她的课。会从看电影出发教授课程。（比如：形容词）
 - 有时会要求小组讨论。但如果法语不是特别流利的可以用英语甚至中文交流。
 - 缺点：欢迎补充
@@ -266,3 +270,23 @@
   
 <h3 id="com_graph">Computer Graphics</h3>
 - 待补充
+
+<h3 id="digital">Digital Art</h3>
+
+- 这门课学习的是如何使用Photoshop，很有意思
+- 老师是Selena Liss，人很好给分也不错。
+- 一个学期有五个Quiz。但都不难，只要认真听课都不会难，并且quiz期间不会的可以翻omnivox的笔记
+- 缺点；这门课非常的难抢，不管是alc的学生还是其他专业的都挺难抢的。2022年秋季全班只有2个complementary的学生。并且好像只有秋季有，但是还是希望大家试一试，毕竟好拿分
+
+<h3 id="theatre">Theatre</h3>
+
+- 这节课的老师Samson Christine真的是神仙。给分高人又好，去年平均92.
+- 学校的theatre分theatre technique, theatre creation和theatre exploration,全部都可以选。
+- 相比较digital art，没有那么难抢，所有专业的都可以尝试抢一抢。
+- 这节课不适合特别害羞社恐以及对表演和戏剧没有兴趣的人。因为有可能会和不认识的人合作，并且最后还有可能要在全班同学面前表演。
+
+
+
+
+
+
