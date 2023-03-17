@@ -139,8 +139,6 @@
  - 102的gothic fiction，听说还是同样的问题。给分也很低。
 
 
- <h3 id="huffels">Natalie Huffels</h3>
-
  <h2 id="fre">French</h2>
 
  <h3 id="daudin">Marie Daudin</h3>
