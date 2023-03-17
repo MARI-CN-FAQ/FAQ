@@ -41,6 +41,10 @@
 - <a href="#monster">*Strangers, Gods, and Monsters*: Venessa Sasson✅✅</a>
 - <a href="#cul_approp">*Ethics & Cultural Appropriation*: Marie Lortie✅✅</a>
 - <a href="#progress">*Just Progress: the Ethics of Innovation*: Lisa Sumner (待补充)</a>
+
+<a href="#pe">**Physical Education**</a>
+- <a href="#screase">*Julia screase</a>
+- <a href="#epstein">*Neal Epstein</a>
   
 <a href="#eng">**English**</a>  
 - <a href="#pedersen">Susan Pedersen✅✅</a>
@@ -184,7 +188,25 @@
 - 课如其名，如果是真的想知道cultural appropriation到底是对的错的的，怎么评价。这课有好好地回答这个问题。
 - 优点：给分高
 - 缺点：欢迎补充差评
+
+<h2 id="pe">Pysical Education</h2>
+
+<h3 id="screase">Julia Screase</h3>
   
+- 101的fitness/games,和102的yoga都非常推荐
+- 101的games主打的是多种体育活动，102是瑜伽
+- 人很好，给分还行，在正常范围内
+- 上过的人都很喜欢她
+
+<h3 id="epstein">Neal Epstein</h3>
+  
+- 相比起他的101，他的102飞盘更推荐
+- 与其他的体育运动特别是dance相比，飞盘课上特别专业且突出的人没有那么多（可以说是几乎没有），主打的就是一个大家一起玩
+- 他的quiz不是很难，但要好好读handout
+- 真的可以学到如何玩飞盘和玩飞盘的规则
+- 建议：飞盘这门运动需要耗费大量的体力，一节课几乎全部都在跑，上课时注意量力而行
+
+
 <h2 id="eng">English</h2>
   
 <h3 id="pedersen">Susan Pedersen</h3>
