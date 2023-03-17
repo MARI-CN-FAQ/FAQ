@@ -29,6 +29,7 @@
 
  <a href="#hum">**Humanities**</a>  
  - <a href="#jesus">*Jesus:He's everywhere*: Calogero Miceli</a>
+ - <a href="#thinker">*19th century thinker: Maurice Dufour</a>
 
 
  <a href="#eng">**English**</a>  
@@ -37,6 +38,7 @@
  - <a href="#shackler">catherine shackler</a>
  - <a href="#berdichevsky"> Leon Berdichevsky</a>
  - <a href="#dube"> Peter Dube</a>
+ - <a href="#huffels"> Natalie Huffels</a>
 
  <a href="#fr">**French**</a>  
  - <a href="#daudin">Marie Daudin</a>
@@ -95,6 +97,15 @@
  - 没有相关知识的会学的很痛苦
  - 建议：这位老师讲课的方式不是很雷，唯一的雷点是给分不是特别的高。有宗教知识的其实可以选，但没有的不建议。
 
+<h3 id="thinker">19th century thinker: Maurice Dufour</h3>
+
+ - 慎重考虑型课程
+ - 学的是诗歌鉴赏，19世纪欧洲的社会背景
+ - 上课没有ppt，纯手写，但擦的很快。东西很多，不光要背，还要分析。给一句上课没有学过的话，然后根据学到的每种思想分析这句话是谁说的
+ - 题永远不会有课堂上学的，要变通
+ - Study guide有100多页。（发了300多页，但他说只看前100页）
+ - 没有兴趣的会学的很痛苦，请避开
+ 
 
  <h2 id="eng">English</h2>
 
@@ -119,7 +130,16 @@
  - 在上过他课的人中拿下了焦虑率100％的好成绩。
  - 根据多名同学反应，这名老师的教学水平和人品都不怎么样
 
- <h3 id="debe">Peter Dube</h3>
+ <h3 id="dube">Peter Dube</h3>
+ 
+ <h3 id="huffels">Natalie Huffels</h3>
+
+ - 语法抓的很严，因此给的分很低
+ - 有上过她的课的人反应她的课超级无聊
+ - 102的gothic fiction，听说还是同样的问题。给分也很低。
+
+
+ <h3 id="huffels">Natalie Huffels</h3>
 
  <h2 id="fre">French</h2>
 
