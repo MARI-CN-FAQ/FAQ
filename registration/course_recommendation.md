@@ -255,7 +255,7 @@
 - 缺点：课上阅读量较大，而且essay的成绩会集中到最后在一口气给
 - 特点：魁北克口音有一丢丢重
   
-  <h3 id="larivière">Fanny Larivière</h3>
+<h3 id="larivière">Fanny Larivière</h3>
   
 - ppt 
 - ppt内容很多，但都是有用的东西。讲的内容比较适合101level的学生
