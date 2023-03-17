@@ -52,9 +52,8 @@
  <h2 id="cal_linear">Calculus & Linear</h2>
 
  <h3 id="pavel">pavel slavchev</h3>
-
- -教的一般。考试虽然不难，但教课的方式不行
-
+- 教的一般。考试虽然不难，但教课的方式不行
+- 
 
 
  <h2 id="phys">Physics</h2>
