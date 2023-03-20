@@ -39,6 +39,7 @@
  - <a href="#berdichevsky"> Leon Berdichevsky</a>
  - <a href="#dube"> Peter Dube</a>
  - <a href="#huffels"> Natalie Huffels</a>
+ - <a href="#khoo">Junling Khoo</a>
 
  <a href="#fr">**French**</a>  
  - <a href="#daudin">Marie Daudin</a>
@@ -144,6 +145,15 @@
  - 语法抓的很严，因此给的分很低
  - 有上过她的课的人反应她的课超级无聊
  - 102的gothic fiction，听说还是同样的问题。给分也很低。
+
+<h3 id="khoo">Junling Khoo</h3>
+ - 又严格又死板，典型的亚洲老师
+ - 给的documen又多又杂，很混乱，让人不知从何下手
+ - 她对写作有自己的要求，并且她的要求很奇怪。曾经有一位写作能力很强的学生由于不能适应她的要求没能拿高分
+ - 给的分真的不高，很难上80
+ - 没有sample essay。所以并不知道她需要的高分essay究竟是什么样的
+ - 请大家慎重考虑。上她的课必须接受她死板的教学和给分方式。能接受的可以去
+
 
 
  <h2 id="fre">French</h2>
