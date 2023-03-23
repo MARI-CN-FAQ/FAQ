@@ -47,6 +47,7 @@
  <a href="#com">**Complementary**</a>  
  - <a href="#medival">Medival and renaissance art</a>
  - <a href="#spanish">Spanish</a>
+ - <a href="#business">Introduction to Business</a>
 
 
  ---
@@ -135,10 +136,10 @@
  - 根据多名同学反应，这名老师的教学水平和人品都不怎么样
 
  <h3 id="dube">Peter Dube</h3>
- - 慎重考虑型老师
- - 其实这名老师的讲课方式和文章是挺有意思的。但是给分很严格
+ - 其实这名老师的讲课方式和文章是挺有意思的。但是给分非常十分严格
  - 102的课题是magic realism。课题很有意思，但是essay给分不好
- - 请大家慎重考虑。英语基础好的可以考虑
+ - 英语基础好的也不能考虑
+ - 给分极低。之前98分的在他这里只能拿68
  
  <h3 id="huffels">Natalie Huffels</h3>
 
@@ -182,3 +183,16 @@
  - 在spanish 1的课上有一部分人的西班牙语甚至和英语一样流利。所以，对于一点都没学过西班牙语的人来说压力很大。
  - 正因为如此，所以班平均分有可能会很高
  - 这门课适合有一定西班牙语基础的人
+
+<h3 id="business">Introduction to business</h3>
+
+- 慎重考虑型课程
+- 这门课是social science有些学生的专业课，所以对于非专业的学生很难
+- 基本所有带有introducti的课程都是专业课，比如：Introduction to law, Introduction to psychology，请大家慎重考虑，尤其是Law，很难。
+- 背的东西很多。有可能出现都背下来也对不上答案的情况
+- 没有social science思维的人不要选。
+- 如果选了，请认真背书。背好就能拿高分
+
+
+
+
