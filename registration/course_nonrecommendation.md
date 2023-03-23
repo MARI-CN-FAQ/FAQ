@@ -189,7 +189,7 @@
 
 - 慎重考虑型课程
 - 这门课是social science有些学生的专业课，所以对于非专业的学生很难
-- 基本所有带有introducti的课程都是专业课，比如：Introduction to law, Introduction to psychology，请大家慎重考虑，尤其是Law，很难。
+- 基本所有带有introduction的课程都是专业课，比如：Introduction to law, Introduction to psychology，请大家慎重考虑，尤其是Law，很难。除了introduction to studio art是所有人都能选的，但这门课非常难抢。
 - 背的东西很多。有可能出现都背下来也对不上答案的情况
 - 没有social science思维的人不要选。
 - 如果选了，请认真背书。背好就能拿高分
