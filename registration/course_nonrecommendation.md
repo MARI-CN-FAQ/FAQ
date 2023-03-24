@@ -48,6 +48,7 @@
  - <a href="#medival">Medival and renaissance art</a>
  - <a href="#spanish">Spanish</a>
  - <a href="#business">Introduction to Business</a>
+ - <a href="#western">History of western civilization</a>
 
 
  ---
@@ -195,6 +196,10 @@
 - 没有social science思维的人不要选。
 - 如果选了，请认真背书。背好就能拿高分
 
-
-
+<h3 id="western">history of western civilization</h3>
+- 慎重考虑型课程
+- 其实mapo有关于历史的课程都比较难，除了history of cinema稍微简单一点
+- 教课的老师David O'keefe风评不好。考试难，给分较低
+- 之前考试的时候考了很多在课堂上说不会考的东西
+- 基本上所有跟hisotry有关的课程都慎重考虑。因为历史这门课需要大量的时间和精力
 
