@@ -30,6 +30,7 @@
  <a href="#hum">**Humanities**</a>  
  - <a href="#jesus">*Jesus:He's everywhere*: Calogero Miceli</a>
  - <a href="#thinker">*19th century thinker: Maurice Dufour</a>
+ - <a href="#monster">*strangers,gods and monsters: Vanessa Sasson</a>
 
 
  <a href="#eng">**English**</a>  
@@ -110,6 +111,13 @@
  - Study guide有100多页。（发了300多页，但他说只看前100页）
  - 没有兴趣的会学的很痛苦，请避开
  
+<h3 id="monster">strangers,gods and monsters: Vanessa Sasson</h3>
+- 慎重考虑型课程
+- 这节课比较是适合文科生，尤其是擅长creative writing的学生
+- 打分很随意。并且上过她课的人反应感觉她不是很喜欢理科生
+- 她其中一个演讲是讲故事。你要是讲不出什么感人至深的故事把她感动到，你分就很低
+- 正在学习如何creative writing的人也请慎重考虑。因为有可能不习惯她的大事化小风格
+
 
  <h2 id="eng">English</h2>
 
