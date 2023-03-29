@@ -1,7 +1,6 @@
 # 老师避雷指南
 
-
- ## 避雷格式:
+## 避雷格式:
  - 以下老师各有各的雷
  - 这些主要选择的是绝大多数学生对这名老师的看法。如果有例外，会额外解释
  - Humanity、Complementary按课题分，因为对课题感兴趣很重要。
@@ -10,55 +9,52 @@
  - PS: 感谢所有受害人的贡献。
 
 
- ## 目录
- <a href="#cal_linear">**Calculus & Linear**</a>  
- - <a href="#pavel">pavel slavchev</a>
+## 目录
+[**Calculus& Linear**](#cal_linear)  
+ - [Pavel Slavchev]("#pavel")  
+
+[**Physics**]("#phys")
+
+[**Chemistry**]("#chem")  
+ - [Lori Jinbachian]("#jinbachian")
+ - [marshall]("#marshall")
+
+[**Biology**]("#bio")  
+
+[**pysical education**]("#pe") 
+ - [Shelly Mcdonald]("#mcdonald")
+ - [Zoe Dafniotis]("#dafniotis")
+
+[**Humanities**]("#hum")  
+ - [*Jesus:He's everywhere*: Calogero Miceli]("#jesus")
+ - [*19th century thinker*: Maurice Dufour]("#thinker")
+ - [*strangers,gods and monsters*: Vanessa Sasson]("#monster")
 
 
- <a href="#phys">**Physics**</a>  
+[**English**]("#eng")  
+ - [David Flaming]("#flaming")
+ - [Paul Malot]("#malot")
+ - [Catherine Shackler]("#shackler")
+ - [Leon Berdichevsky]("#berdichevsky")
+ - [Peter Dube]("#dube")
+ - [Natalie Huffels]("#huffels")
+ - [Junling Khoo]("#khoo")
 
- <a href="#chem">**Chemistry**</a>  
- - <a href="#jinbachian">Lori Jinbachian</a>
- - <a href="#marshall">marshall</a>
+[**French**]("#fr")  
+ - [Marie Daudin]("#daudin")
 
- <a href="#bio">**Biology**</a>  
-
- <a href="#pe">**pysical education**</a> 
- - <a href="#mcdonald">Shelly Mcdonald</a>
- - <a href="#dafniotis">Zoe Dafniotis</a>
-
- <a href="#hum">**Humanities**</a>  
- - <a href="#jesus">*Jesus:He's everywhere*: Calogero Miceli</a>
- - <a href="#thinker">*19th century thinker: Maurice Dufour</a>
- - <a href="#monster">*strangers,gods and monsters: Vanessa Sasson</a>
-
-
- <a href="#eng">**English**</a>  
- - <a href="#flaming">David Flaming</a>
- - <a href="#malot">paul Malot</a>
- - <a href="#shackler">catherine shackler</a>
- - <a href="#berdichevsky"> Leon Berdichevsky</a>
- - <a href="#dube"> Peter Dube</a>
- - <a href="#huffels"> Natalie Huffels</a>
- - <a href="#khoo">Junling Khoo</a>
-
- <a href="#fr">**French**</a>  
- - <a href="#daudin">Marie Daudin</a>
-
- <a href="#com">**Complementary**</a>  
- - <a href="#medival">Medival and renaissance art</a>
- - <a href="#spanish">Spanish</a>
- - <a href="#business">Introduction to Business</a>
- - <a href="#western">History of western civilization</a>
+[**Complementary**]("#com")  
+ - [Medival and renaissance art]("#medival")
+ - [Spanish]("#spanish")
+ - [Introduction to Business]("#business")
+ - [History of western civilization]("#western")
 
 
- ---
- <h2 id="cal_linear">Calculus & Linear</h2>
+---
+## Calculus & Linear <a name="cal_linear"></a>
 
- <h3 id="pavel">pavel slavchev</h3>
+### Pavel Slavchev <a name="cal_linear"></a>
 - 教的一般。考试虽然不难，但教课的方式不行
-- 
-
 
  <h2 id="phys">Physics</h2>
 
