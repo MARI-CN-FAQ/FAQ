@@ -41,3 +41,6 @@
 
 ### 一些小工具
 - [R-Score Calculator (by LiWei)](https://docs.google.com/spreadsheets/d/1hKyTmdjzOUBFOerlXWGwLWSHthPrJ48G7sr9oURl2zA/edit?usp=drivesdk)
+
+### 我也想帮大家避雷/推荐
+[Markdown快速入门](./fast_intro/md_crash_course.md)
