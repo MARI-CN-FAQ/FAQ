@@ -15,88 +15,123 @@
 - <a href="https://docs.google.com/document/d/1WWzg_ZjDYPkpd6SvVz6CdfulMWhRPl0Yc8Mn9o3joVw/edit#">个人主观评价（中文）</a>
   
 ## 目录
-<a href="#cal_linear">**Calculus & Linear**</a>  
-- <a href="#lim">Lim Wee Keong✅</a>
-- <a href="#qian">Wang Qian</a>
-- <a href="#godin">Veronique Godin✅✅</a>
-- <a href="#egan">Matthew Egan✅</a>
+[**Calculus & Linear**](#cal_linear)  
+- [选课\&老师推荐](#选课老师推荐)
+  - [推荐格式:](#推荐格式)
+  - [其他同学的老师推荐](#其他同学的老师推荐)
+  - [目录](#目录)
+  - [Calculus \& Linear ](#calculus--linear-)
+    - [Lim Wee Keong✅ ](#lim-wee-keong-)
+    - [Wang Qian ](#wang-qian-)
+    - [Veronique Godin✅✅ ](#veronique-godin-)
+    - [Matthew Egan✅ ](#matthew-egan-)
+  - [Physics ](#physics-)
+    - [Simon Sabik✅✅✅ ](#simon-sabik-)
+    - [Matthieu Dayon✅ ](#matthieu-dayon-)
+    - [Patrick Roger ](#patrick-roger-)
+  - [Chemistry ](#chemistry-)
+    - [Jason Li ](#jason-li-)
+    - [Roby Butt✅✅✅✅ ](#roby-butt-)
+    - [Liliane Halab✅✅ ](#liliane-halab-)
+  - [Biology ](#biology-)
+    - [Christine Barrie✅ ](#christine-barrie-)
+    - [Ursula Oberholzer✅✅ ](#ursula-oberholzer-)
+    - [Celestino Di Flumeri✅](#celestino-di-flumeri)
+  - [Humanities](#humanities)
+    - [*Sex, Science and Society*: Veronica Ponce](#sex-science-and-society-veronica-ponce)
+    - [*Strangers, Gods, and Mosnters*: Venessa Sasson](#strangers-gods-and-mosnters-venessa-sasson)
+    - [*Ethics \& Cultural Appropriation*: Marie Lortie](#ethics--cultural-appropriation-marie-lortie)
+  - [Pysical Education](#pysical-education)
+    - [Julia Screase](#julia-screase)
+    - [Neal Epstein](#neal-epstein)
+  - [English](#english)
+    - [Susan Pedersen](#susan-pedersen)
+    - [Brigitte Boudreau](#brigitte-boudreau)
+    - [Mathew Vann](#mathew-vann)
+    - [Megan Newell](#megan-newell)
+  - [French](#french)
+    - [Sylvain Pagé](#sylvain-pagé)
+    - [Lily Soucy](#lily-soucy)
+    - [Fanny Larivière](#fanny-larivière)
+  - [Complementary](#complementary)
+    - [Enhancing Computer Skills](#enhancing-computer-skills)
+    - [Web Page Design](#web-page-design)
+    - [Introduction of International Relationship](#introduction-of-international-relationship)
+    - [Computer Graphics](#computer-graphics)
+    - [Digital Art](#digital-art)
+    - [Theatre](#theatre)
 
-<a href="#phys">**Physics**</a>  
-- <a href="#sabik">Simon Sabik✅✅✅</a>
-- <a href="#dayon">Matthieu Dayon✅</a>
-- <a href="#roger">Patrick Roger</a>
+[**Physics**](#phys)  
+- [Simon Sabik✅✅✅](#sabik)
+- [Matthieu Dayon✅](#dayon)
+- [Patrick Roger](#roger)
 
-<a href="#chem">**Chemistry**</a>  
-- <a href="#jason">Jason Li</a>
-- <a href="#butt">Roby Butt✅✅✅✅</a>
-- <a href="#halab">Liliane Halab✅✅</a>
+[**Chemistry**](#chem)  
+- [Jason Li](#jason)
+- [Roby Butt✅✅✅✅](#butt)
+- [Liliane Halab✅✅](#halab)
 
-<a href="#bio">**Biology**</a>  
-- <a href="#barrie">Christine Barrie✅</a>
-- <a href="#oberholzer">Ursula Oberholzer✅✅</a>
-- <a href="#charlie">Celestino Di Flumeri✅</a>
+[**Biology**](#bio) 
+- [Christine Barrie✅](#barrie)
+- [Ursula Oberholzer✅✅](#oberholzer)
+- [Celestino Di Flumeri✅](#charlie)
   
-<a href="#hum">**Humanities**</a>  
-- <a href="#sss">*Sex, Science, and Society*: Veronica Ponce✅✅</a>
-- <a href="#monster">*Strangers, Gods, and Monsters*: Venessa Sasson✅✅</a>
-- <a href="#cul_approp">*Ethics & Cultural Appropriation*: Marie Lortie✅✅</a>
-- <a href="#progress">*Just Progress: the Ethics of Innovation*: Lisa Sumner (待补充)</a>
+[**Humanities**](#hum) 
+- [*Sex, Science, and Society*: Veronica Ponce✅✅](#sss)
+- [*Strangers, Gods, and Monsters*: Venessa Sasson✅✅](#monster)
+- [*Ethics & Cultural Appropriation*: Marie Lortie✅✅](#cul_approp)
+- [*Just Progress: the Ethics of Innovation*: Lisa Sumner (待补充)](#progress)
 
-<a href="#pe">**Physical Education**</a>
-- <a href="#screase">*Julia screase</a>
-- <a href="#epstein">*Neal Epstein</a>
+[**Physical Education**](#pe)
+- [*Julia screase](#screase)
+- [*Neal Epstein](#epstein)
   
-<a href="#eng">**English**</a>  
-- <a href="#pedersen">Susan Pedersen✅✅</a>
-- <a href="#brigitte">Brigitte Boudread</a>
-- <a href="#vann">Mathew vann✅✅</a>
-- <a href="#newell">Megan Newell✅✅✅</a>
+[**English**](#eng) 
+- [Susan Pedersen✅✅](#pedersen)
+- [Brigitte Boudread](#brigitte)
+- [Mathew vann✅✅](#vann)
+- [Megan Newell✅✅✅](#newell)
   
-<a href="#fr">**French**</a>  
-- <a href="#page">Sylvain Pagé✅</a>
-- <a href="#soucy">Lily Soucy✅✅</a>
-- <a href="#larivière">Fanny Larivière✅✅</a>
+[**French**](#fr)
+- [Sylvain Pagé✅](#page)
+- [Lily Soucy✅✅](#soucy)
+- [Fanny Larivière✅✅](#larivière)
   
-<a href="#com">**Complementary**</a>  
-- <a href="#ecs">Enhancing Computer Skills✅✅</a>
-- <a href="#webpage">Web Page Design</a>
-- <a href="#IR">Introduction to International Relationship</a>
-- <a href="#com_graph">Computer Graphics（待补充）</a>
-- <a href="#digital">Digital Art</a>
-- <a href="#theatre">Theatre</a>
+[**Complementary**](#com)  
+- [Enhancing Computer Skills✅✅](#ecs)
+- [Web Page Design](#webpage)
+- [Introduction to International Relationship](#IR)
+- [Computer Graphics（待补充）](#com_graph)
+- [Digital Art](#digital)
+- [Theatre](#theatre)
   
 ---
-<h2 id="cal_linear">Calculus & Linear</h2>
-  
-<h3 id="lim">Lim Wee Keong✅</h3>
-  
+## Calculus & Linear <a name="cal_linear"></a>
+
+### Lim Wee Keong✅ <a name="lim"></a>  
 - 现写板书流  
 - 优点：Tough love representative, 非常非常幽默教得巨好
 - 缺点：作业、Midterm难度高
   
-<h3 id="qian">Wang Qian</h3>
-  
+### Wang Qian <a name="qian"></a> 
 - notepack流  
 - 优点：office hour会中文讲题  
 - 缺点：上课中国口音很重，不习惯的听她讲课有点费劲（也可以是一个可爱的卖点）
   
-<h3 id="godin">Veronique Godin✅✅</h3>
-  
+### Veronique Godin✅✅ <a name="godin"></a> 
 - notepack流  
 - 优点：六边形战士；人很幽默，课讲得很明白；与Lim不相上下  
 - 缺点：作业Grading会比较严格  
   
-<h3 id="egan">Matthew Egan✅</h3>
-
+### Matthew Egan✅ <a name="egan"></a>
 - 现写板书流
 - 优点：人很好很温柔，讲的很清楚
 - 缺点：讲课的速度很快。基本比别的班快1到2节课。请接受不了这种高速讲课方式的学生慎重考虑
 - 特点：上课会讲冷笑话
   
-<h2 id="phys">Physics</h2>
-  
-<h3 id="sabik">Simon Sabik✅✅✅</h3>
-  
+## Physics <a name="phys"></a>
+
+### Simon Sabik✅✅✅ <a name="sabik"></a>
 - 现写板书流
 - 优点：讲课废话很少、笔记非常精简
 - 这个人聪明到 如果你提出一个不理解的地方/问题， 他能立马领悟你是什么导致了你的困惑 并且有非常简单的语言给你指出来 straight to the point
@@ -104,78 +139,68 @@
 - 温温柔柔可可爱爱还很幽默 T-T
 - 缺点：非要说的话 mechanics刚开始讲得飞快 过于精简（？
   
-<h3 id="dayon">Matthieu Dayon✅</h3>
-  
+### Matthieu Dayon✅ <a name="dayon"></a>
 - ppt流
 - 激情讲课派
 - 优点：好！人！好老师！
 - 没有Sabik那么厉害在于 有时候他不能马上听懂你的问题（like想不到你因为什么不理解）但是他真的会用无数种方式给你讲 直到你说你懂了
 - 缺点：考点能讲明白，更深层的问题回答不清楚
 
-<h3 id="roger">Patrick Roger</h3>
-
+### Patrick Roger <a name="roger"></a>
 - 现写板书流
 - 优点：人很有趣，每节课开始前都会讲一个冷笑话。讲的很清晰。他挑选的review questions能很好的帮你理解内容。
 - 缺点：课上必须得时时刻刻的听着, ppt里除了问题只有很少的课程内容（答案还只在课上给）。重点都必须在课上follow不然私底下自习会有难度。（而且他看到你在刷手机摸鱼还会特地叫你回答问题
   
-<h2 id="chem">Chemistry</h2>
+## Chemistry <a name="chem"></a>
   
-<h3 id="jason">Jason Li</h3>
-  
+### Jason Li <a name="jason"></a>
 - ppt流
 - 颓废派（？）：与上面的激情派Dayon形成鲜明对比
 - 优点：讲的很清楚没有废话，笔记很清楚，quiz不难，书上的题会留范围练习
 - 缺点：真的有点没激情容易困
   
-<h3 id="butt">Roby Butt✅✅✅✅</h3>
-  
+### Roby Butt✅✅✅✅ <a name="butt"></a>
 - notepack流
 - 他是一个有点话唠的老师 学生问一个问题他会讲好久，不止是把这个问题给学生讲明白，他还会不由自主地扩展，往外延伸。有的时候会觉得有点extra，但同时又觉得他真的很敬业很希望自己可以inspire到学生
 - 优点：发mio问问题，他会在回答里把问题copy下来在里边跟着问问题的思路一步步做批注的老师（并且使用不同颜色的字）。每一次发邮件问问题，得到的回信都像一篇小论文。（真的是认真到有点过头的老师）。
 - 缺点：话很多，quiz有点难
 
-<h3 id="halab">Liliane Halab✅✅</h3>
-
+### Liliane Halab✅✅ <a name="halab"></a>
 - ppt流
 - 慈祥（？）的女老师，很多问题都可以通俗的解释清楚。经常布置一些送分的assignments
 - 优点：ppt里什么都有！理论上来说哪怕你一节课不上只看ppt都可以准备好考试（当然翘课太多会被开除的）。assigments基本上只要对着ppt里的example做就能拿满分 
 -  缺点：课程有些无聊，而且特别容易犯困
 
-<h2 id="bio">Biology</h2>
-  
-<h3 id="barrie">Christine Barrie✅</h3>
-  
+## Biology <a name="bio"></a>
+
+### Christine Barrie✅ <a name="barrie"></a>
 - ppt流
 - 优点：ppt什么都有，考点全在上面
 - 缺点：讲课有点无聊（因为bio1刚开始讲基础的时候很难讲得有意思） 但是后面当你了解了基础之后就会发现它的乐趣
 - 一些上课建议：建议认真整理他ppt上的知识，ppt虽然全面但是我觉得有点地方逻辑顺序不是太通，并且整理ppt的这个过程真的很能帮助记知识。
   
-<h3 id="oberholzer">Ursula Oberholzer✅✅</h3>
-  
+### Ursula Oberholzer✅✅ <a name="oberholzer"></a>
 - notepack流
 - 优点：非常宽容祥和慈爱的人
 - 讲课很清楚，给notepack一起填空一起画图，复习起来很方便
 - 每一个章节都会发practice quiz，在全是知识点没什么题做的bio2里 很沙漠中的绿洲了
 - 欢迎补充差评
   
-<h3 id="charlie">Celestino Di Flumeri✅</h3>
-  
+### Celestino Di Flumeri✅<a name="charlie"></a>
 - notepack流
 - 优点：人很nice，会很认真回答问题
 - 缺点：欢迎补充差评
 - 特点：喜欢让学生叫他Charlie
   
-<h2 id="hum">Humanities</h2>
+## Humanities<a name="hum"></a>
   
-<h3 id="sss"><i>Sex, Science and Society</i>: Veronica Ponce</h3>
-  
+### *Sex, Science and Society*: Veronica Ponce<a name="sss"></a>
 - notepack流
 - Sex education & ethics
 - 优点：老师人很好；内容很有趣（很黄色）但是很受教；essay好写，分一般不会低
 - 缺点：欢迎补充差评
   
-<h3 id="monster"><i>Strangers, Gods, and Mosnters</i>: Venessa Sasson</h3>
-  
+### *Strangers, Gods, and Mosnters*: Venessa Sasson<a name="monster"></a>
 - 是讲故事课！
 - 这个课 喜欢的人巨喜欢，觉得不对胃口的人非常不爽
 - 内容：每节课会让学生讲自己准备的、关于自己的真实经历的、认为有意义的故事。
@@ -183,23 +208,20 @@
 - 优点：非常wholesome；老师情商很高，文字和语言华丽又精准
 - 缺点：欢迎补充差评
   
-<h3 id="cul_approp"><i>Ethics & Cultural Appropriation</i>: Marie Lortie</h3>
-  
+### *Ethics & Cultural Appropriation*: Marie Lortie<a name="cul_appropsss"></a>
 - 课如其名，如果是真的想知道cultural appropriation到底是对的错的的，怎么评价。这课有好好地回答这个问题。
 - 优点：给分高
 - 缺点：欢迎补充差评
 
-<h2 id="pe">Pysical Education</h2>
+## Pysical Education<a name="pe"></a>
 
-<h3 id="screase">Julia Screase</h3>
-  
+### Julia Screase<a name="screase"></a>
 - 101的fitness/games,和102的yoga都非常推荐
 - 101的games主打的是多种体育活动，102是瑜伽
 - 人很好，给分还行，在正常范围内
 - 上过的人都很喜欢她
 
-<h3 id="epstein">Neal Epstein</h3>
-  
+### Neal Epstein<a name="epstein"></a>
 - 相比起他的101，他的102飞盘更推荐
 - 与其他的体育运动特别是dance相比，飞盘课上特别专业且突出的人没有那么多（可以说是几乎没有），主打的就是一个大家一起玩
 - 他的quiz不是很难，但要好好读handout
@@ -207,56 +229,49 @@
 - 建议：飞盘这门运动需要耗费大量的体力，一节课几乎全部都在跑，上课时注意量力而行
 
 
-<h2 id="eng">English</h2>
+## English<a name="eng"></a>
   
-<h3 id="pedersen">Susan Pedersen</h3>
-  
+### Susan Pedersen<a name="pedersen"></a>
 - 现写板书流
 - 优点：上过的都说好；人很nice，能学到东西；essay给分高
 - 她选的文章都特别的精彩：她102英语的主题叫the American Short Stories；每一个故事都很经典，阅读体验很好，都很难忘很有意思。
 - 建议：她的102建议英语基础较好的人选，因为文章和考试其实比较难。
 - 缺点：欢迎补充差评
   
-<h3 id="brigitte">Brigitte Boudreau</h3>
-
+### Brigitte Boudreau<a name="brigitte"></a>
 - ppt流
 - 优点：老师人很好，essay批改很认真
 - 缺点：感觉老师上课容易紧张，说话会有点磕磕绊绊的，讲课大部分时间都是读ppt
   
-<h3 id="vann">Mathew Vann</h3>
-
+### Mathew Vann<a name="vann"></a>
 - ppt 
 - 优点：讲课文邹邹的，很有意思。人超级好，需要英语方面的帮助可以给他发mio。但可能回复的会有点慢。
 - 102英语的主题是跟超自然现象相关的恐怖小说，比如克苏鲁。有兴趣的会很喜欢
 - 适合有一定英语基础的人，essay记住千万别跑题！！！
 - 缺点：基本每节课都要小组讨论，社恐的人要考虑自己能不能克服心理障碍
   
-<h3 id="newell">Megan Newell</h3>
-  
+### Megan Newell<a name="newell"></a>
 - 现写板书流 + notepack流
 - 优点：给分高，上课轻松
 - 缺点：文件管理有问题 又多又乱（已开始改进）
 - 特点：她自己不乐意早起所以早八的课会晚15分钟开课；思维跳跃（一会儿上课一会儿唠嗑拉家常）；mio轰炸（基本都是节日祝福，看个人喜好）
   
-<h2 id="fr">French</h2>
+## French<a name="fr"></a>
   
-<h3 id="page">Sylvain Pagé</h3>
-  
+### Sylvain Pagé<a name="page"></a>
 - ppt（课后不会上传omnivox，final前会给）
 - 优点：上课非常活跃，内容非常有趣；
 - 缺点：essay语法改的很严，不好拿分；essay反馈修改意见较少
 - 注意：老师政治立场很鲜明，上课偶尔会有他个人政治观点出现，如不喜欢不建议选
   
-<h3 id="soucy">Lily Soucy</h3>
-  
+### Lily Soucy<a name="soucy"></a>
 - ppt + 现写板书
 - ppt内容很多都是丰富课外知识；跟要求读的书相关的建议记笔记
 - 优点：人很nice；essay批改会给出很客观的修改意见，拿分难度一般
 - 缺点：课上阅读量较大，而且essay的成绩会集中到最后在一口气给
 - 特点：魁北克口音有一丢丢重
   
-<h3 id="larivière">Fanny Larivière</h3>
-  
+### Fanny Larivière<a name="larivière"></a>
 - ppt 
 - ppt内容很多，但都是有用的东西。讲的内容比较适合101level的学生
 - 优点：人很nice，给分还可以，不是特别严
@@ -265,43 +280,39 @@
 - 有时会要求小组讨论。但如果法语不是特别流利的可以用英语甚至中文交流。
 - 缺点：欢迎补充
 - 注意：这位老师更适合101的同学选。
-<h2 id="com">Complementary</h2>
+
+## Complementary<a name="com"></a>
   
-<h3 id="ecs">Enhancing Computer Skills</h3>
-  
+### Enhancing Computer Skills<a name="ecs"></a>
 - 基本上是大家公认的划水课
 - 会学到：相信大部分人都不一定知道的Word使用技巧
 - 很基础的HTML5和CSS语言
 - 优点：简单、好拿分（接近90的班级平均）
 - 缺点：内容可能会有点冗长枯燥
 
-<h3 id="webpage">Web Page Design</h3>
-  
+### Web Page Design<a name="webpage"></a>
 - 能学到：很基础的网页设计
 - 在学期初的内容会跟Enhancing Computer Skills的有一些重叠
 - 相比于Enhancing Computer Skills能学到更多的CSS语言
 - 优点：有Final Project，无Final
 
 
-<h3 id="IR">Introduction of International Relationship</h3>
-
+### Introduction of International Relationship<a name="IR"></a>
 - 会学到：从不同的角度去分析现代国际局势
 - 从现实主义，建构主义，以及其他的角度去分析中美关系及其他
 - 优点：老师给分很高（接近90的班级平均）
 - 缺点：需要写很多essay，而且有midterm考试
   
-<h3 id="com_graph">Computer Graphics</h3>
+### Computer Graphics<a name="com_graph"></a>
 - 待补充
 
-<h3 id="digital">Digital Art</h3>
-
+### Digital Art<a name="digital"></a>
 - 这门课学习的是如何使用Photoshop，很有意思
 - 老师是Selena Liss，人很好给分也不错。
 - 一个学期有五个Quiz。但都不难，只要认真听课都不会难，并且quiz期间不会的可以翻omnivox的笔记
 - 缺点；这门课非常的难抢，不管是alc的学生还是其他专业的都挺难抢的。2022年秋季全班只有2个complementary的学生。并且好像只有秋季有，但是还是希望大家试一试，毕竟好拿分
 
-<h3 id="theatre">Theatre</h3>
-
+### Theatre<a name="theatre"></a>
 - 这节课的老师Samson Christine真的是神仙。给分高人又好，去年平均92.
 - 学校的theatre分theatre technique, theatre creation和theatre exploration,全部都可以选。
 - 相比较digital art，没有那么难抢，所有专业的都可以尝试抢一抢。
