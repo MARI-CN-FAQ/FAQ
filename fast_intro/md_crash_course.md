@@ -108,8 +108,8 @@ LF
 [Jump_2](#Jump_to_other_text)  
 # Jump to other text <a name="Jump_to_other_text"></a>
 ```
->[Jump_2](#Jump_to_other_text)  
-># Jump to other text <a name="Jump_to_other_text"></a>  
+>[Jump_2](#a2)  
+># Jump to other text <a name="a2"></a>  
 
 ---
 ## 文档建议的格式
