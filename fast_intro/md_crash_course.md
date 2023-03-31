@@ -105,11 +105,11 @@ LF
 
 也可以通过html的方式添加内部链接
 ```
-[Jump_2](#Jump_to_other_text)  
-# Jump to other text <a name="Jump_to_other_text"></a>
+[Jump_2](#other)  
+# Jump to other text <a name="other"></a>
 ```
->[Jump_2](#a2)  
-># Jump to other text <a name="a2"></a>  
+>[Jump_2](#other)  
+># Jump to other text <a name="other"></a>  
 
 ---
 ## 文档建议的格式
