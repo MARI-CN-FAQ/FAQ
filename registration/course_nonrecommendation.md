@@ -123,7 +123,7 @@
 - 102的Rogues and Rebels: Novels of Non-Conformity需要读的东西很多，基本一次要读三十几页
 
 ### Catherine Shackler <a name="shackler"></a>
-- 作业多，读的东西也多
+- 作业多，读的东西也多，仅仅是writing assisgnment就有10个
 - 两极分化严重。喜欢的很喜欢，不喜欢的很讨厌
 - 就上过她102 science fiction的同学反应，教课的方式和给分都不太行
 
