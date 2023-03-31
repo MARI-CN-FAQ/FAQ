@@ -124,8 +124,21 @@ LF
 ```
 ### 例子：
 ```
-### Teacher's Name <a name="Teacher's Id"></a>
-- Descriptions
-- Descriptions
-- Descriptions
+[**Physical Education**](#pe)
+- [John Wick](#winkwink)
+
+[...]
+
+### John Wick <a name="winkwink"></a>
+- Very cool
+- Very very cool
 ```
+>[**Physical Education**](#pe)
+>- [John Wick](#winkwink)
+>
+>[...]
+>
+>## Physical Education <a name="pe"></a>
+>### John Wick <a name="winkwink"></a>
+>- Very cool
+>- Very very cool

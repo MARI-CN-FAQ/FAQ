@@ -43,8 +43,8 @@
 - [*Just Progress: the Ethics of Innovation*: Lisa Sumner (待补充)](#progress)
 
 [**Physical Education**](#pe)
-- [*Julia screase](#screase)
-- [*Neal Epstein](#epstein)
+- [Julia Screase](#screase)
+- [Neal Epstein](#epstein)
   
 [**English**](#eng) 
 - [Susan Pedersen✅✅](#pedersen)
