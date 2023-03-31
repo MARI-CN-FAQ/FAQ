@@ -10,7 +10,8 @@
 
 ### 3. 修改内容
 打开所要修改的文件，就可以往文件里添加内容了。  
-举个例子，比如你想要修改`选课&老师推荐`，你先需要打开`选课&老师推荐`的页面。
+举个例子：  
+比如你想要修改`选课&老师推荐`，你先需要打开`选课&老师推荐`的页面。
 
 #### 打开页面
 ![image](https://user-images.githubusercontent.com/79558524/228967434-16921286-bed5-446b-ba82-a8d784067aa2.png)  
@@ -105,9 +106,26 @@ LF
 也可以通过html的方式添加内部链接
 ```
 [Jump](#Jump_to_other_text)  
-# Jump to other text <a name="Jump_to_other_text">
+# Jump to other text <a name="Jump_to_other_text"></a>
 ```
 >[Jump_2](#Jump_to_other_text)  
-># Jump to other text <a name="Jump_to_other_text">
+># Jump to other text <a name="Jump_to_other_text"></a>
 
-## Futur vision
+---
+## 文档建议的格式
+1. 建议所有的链接写成`[链接名称]（链接地址）`的形式
+2. 建议所有将被定向的标题都写成`# Title <a name="id"></a>`的形式，这样的话就可以把目录写成`[Title]（#id）`的形式
+3. 建议将推荐/避雷的格式写成这样  
+```
+### Teacher's Name <a name="Teacher's Id"></a>
+- Descriptions
+- Descriptions
+- Descriptions
+```
+### 例子：
+```
+### Teacher's Name <a name="Teacher's Id"></a>
+- Descriptions
+- Descriptions
+- Descriptions
+```

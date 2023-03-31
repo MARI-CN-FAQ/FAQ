@@ -2,7 +2,7 @@
 
 ## 推荐格式:
 - 老师们的教学方式粗略分成了三个流派：**现写板书流，ppt流，notepack流**
-- 理科、英语、法语按老师分，因为教学内容都一样（101)，or老师对胃口比课程选题更重要
+- 理科、英语、法语按老师分，因为教学内容都一样(101)，or老师对胃口比课程选题更重要
 - Humanity、Complementary按课题分，因为对课题感兴趣很重要（至少写这里的人是这样认为的）
 - 使用✅来表示推荐程度（主观推荐经供参考）
 - 此页面挑出了一些大家都比较认同的点
@@ -16,50 +16,10 @@
   
 ## 目录
 [**Calculus & Linear**](#cal_linear)  
-- [选课\&老师推荐](#选课老师推荐)
-  - [推荐格式:](#推荐格式)
-  - [其他同学的老师推荐](#其他同学的老师推荐)
-  - [目录](#目录)
-  - [Calculus \& Linear ](#calculus--linear-)
-    - [Lim Wee Keong✅ ](#lim-wee-keong-)
-    - [Wang Qian ](#wang-qian-)
-    - [Veronique Godin✅✅ ](#veronique-godin-)
-    - [Matthew Egan✅ ](#matthew-egan-)
-  - [Physics ](#physics-)
-    - [Simon Sabik✅✅✅ ](#simon-sabik-)
-    - [Matthieu Dayon✅ ](#matthieu-dayon-)
-    - [Patrick Roger ](#patrick-roger-)
-  - [Chemistry ](#chemistry-)
-    - [Jason Li ](#jason-li-)
-    - [Roby Butt✅✅✅✅ ](#roby-butt-)
-    - [Liliane Halab✅✅ ](#liliane-halab-)
-  - [Biology ](#biology-)
-    - [Christine Barrie✅ ](#christine-barrie-)
-    - [Ursula Oberholzer✅✅ ](#ursula-oberholzer-)
-    - [Celestino Di Flumeri✅](#celestino-di-flumeri)
-  - [Humanities](#humanities)
-    - [*Sex, Science and Society*: Veronica Ponce](#sex-science-and-society-veronica-ponce)
-    - [*Strangers, Gods, and Mosnters*: Venessa Sasson](#strangers-gods-and-mosnters-venessa-sasson)
-    - [*Ethics \& Cultural Appropriation*: Marie Lortie](#ethics--cultural-appropriation-marie-lortie)
-  - [Pysical Education](#pysical-education)
-    - [Julia Screase](#julia-screase)
-    - [Neal Epstein](#neal-epstein)
-  - [English](#english)
-    - [Susan Pedersen](#susan-pedersen)
-    - [Brigitte Boudreau](#brigitte-boudreau)
-    - [Mathew Vann](#mathew-vann)
-    - [Megan Newell](#megan-newell)
-  - [French](#french)
-    - [Sylvain Pagé](#sylvain-pagé)
-    - [Lily Soucy](#lily-soucy)
-    - [Fanny Larivière](#fanny-larivière)
-  - [Complementary](#complementary)
-    - [Enhancing Computer Skills](#enhancing-computer-skills)
-    - [Web Page Design](#web-page-design)
-    - [Introduction of International Relationship](#introduction-of-international-relationship)
-    - [Computer Graphics](#computer-graphics)
-    - [Digital Art](#digital-art)
-    - [Theatre](#theatre)
+- [Lim Wee Keong✅ ](#lim)
+- [Wang Qian ](#qian)
+- [Veronique Godin✅✅ ](#godin)
+- [Matthew Egan✅ ](#egan)  
 
 [**Physics**](#phys)  
 - [Simon Sabik✅✅✅](#sabik)
@@ -172,12 +132,6 @@
 -  缺点：课程有些无聊，而且特别容易犯困
 
 ## Biology <a name="bio"></a>
-
-### Christine Barrie✅ <a name="barrie"></a>
-- ppt流
-- 优点：ppt什么都有，考点全在上面
-- 缺点：讲课有点无聊（因为bio1刚开始讲基础的时候很难讲得有意思） 但是后面当你了解了基础之后就会发现它的乐趣
-- 一些上课建议：建议认真整理他ppt上的知识，ppt虽然全面但是我觉得有点地方逻辑顺序不是太通，并且整理ppt的这个过程真的很能帮助记知识。
   
 ### Ursula Oberholzer✅✅ <a name="oberholzer"></a>
 - notepack流
