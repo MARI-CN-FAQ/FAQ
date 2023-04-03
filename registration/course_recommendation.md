@@ -11,9 +11,9 @@
 - PS: 感谢Eve的贡献。
   
 ## 其他同学的老师推荐
-- <a href="https://docs.google.com/spreadsheets/d/1bpZ7DSdvNdBORZi8RXUnD1wBQ7D3qpOuVoE5CcGfwfs/edit?fbclid=IwAR2SzsH0NSflm8-QlJZIomfYb1DdyMCfsRJDhptoxDB6FRmAopZlGngHwgo#gid=1130331977">Mari Discord (英语）</a>
-- <a href="https://docs.google.com/document/d/1WWzg_ZjDYPkpd6SvVz6CdfulMWhRPl0Yc8Mn9o3joVw/edit#">个人主观评价（中文）</a>
-  
+- [来自 Mari Discord 的建议(英语)](https://docs.google.com/spreadsheets/d/1bpZ7DSdvNdBORZi8RXUnD1wBQ7D3qpOuVoE5CcGfwfs/edit?fbclid=IwAR2SzsH0NSflm8-QlJZIomfYb1DdyMCfsRJDhptoxDB6FRmAopZlGngHwgo#gid=1130331977)
+- [个人主观评价（中文）](https://docs.google.com/document/d/1WWzg_ZjDYPkpd6SvVz6CdfulMWhRPl0Yc8Mn9o3joVw/edit#)
+
 ## 目录
 [**Calculus & Linear**](#cal_linear)  
 - [Lim Wee Keong✅ ](#lim)
@@ -132,6 +132,12 @@
 -  缺点：课程有些无聊，而且特别容易犯困
 
 ## Biology <a name="bio"></a>
+
+### Christine Barrie✅ <a name="barrie"></a>
+- ppt流
+- 优点：ppt什么都有，考点全在上面
+- 缺点：讲课有点无聊（因为bio1刚开始讲基础的时候很难讲得有意思） 但是后面当你了解了基础之后就会发现它的乐趣
+- 一些上课建议：建议认真整理他ppt上的知识，ppt虽然全面但是我觉得有点地方逻辑顺序不是太通，并且整理ppt的这个过程真的很能帮助记知识。
   
 ### Ursula Oberholzer✅✅ <a name="oberholzer"></a>
 - notepack流
@@ -167,7 +173,7 @@
 - 优点：给分高
 - 缺点：欢迎补充差评
 
-## Pysical Education<a name="pe"></a>
+## Physical Education<a name="pe"></a>
 
 ### Julia Screase<a name="screase"></a>
 - 101的fitness/games,和102的yoga都非常推荐

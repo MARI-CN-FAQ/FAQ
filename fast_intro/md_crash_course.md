@@ -53,7 +53,7 @@
 LF
 我是第四段文字。LF
 ```
-##### 注： 以下例子里，“_”代表空格而“LF”代表换行  
+##### 注： 以上例子里，“_”代表空格而“LF”代表换行  
 那么最后输出的结果就是：  
 >我是第一段文字。  
 >我是第二段文字。
@@ -64,8 +64,8 @@ LF
 斜体和粗体可以通过`*`和`**`实现  
 **例子：**
 ```
-*我是第一段文字。LF*
-**我是第二段文字。LF**
+*我是第一段文字。*
+**我是第二段文字。**
 ```
 >*我是第一段文字。*  
 >**我是第二段文字。**
@@ -105,11 +105,11 @@ LF
 
 也可以通过html的方式添加内部链接
 ```
-[Jump](#Jump_to_other_text)  
-# Jump to other text <a name="Jump_to_other_text"></a>
+[Jump_2](#other)  
+# Jump to other text <a name="other"></a>
 ```
->[Jump_2](#Jump_to_other_text)  
-># Jump to other text <a name="Jump_to_other_text"></a>
+>[Jump_2](#other)  
+># Jump to other text <a name="other"></a>  
 
 ---
 ## 文档建议的格式

@@ -10,25 +10,25 @@
 
 
 ## 目录
-[**Calculus& Linear**](#cal_linear)  
+[**Calculus & Linear**](#cal_linear)  
 - [Pavel Slavchev](#pavel)  
 
 [**Physics**](#phys)
 
 [**Chemistry**](#chem)  
 - [Lori Jinbachian](#jinbachian)
-- [marshall](#marshall)
+- [Marshall](#marshall)
 
 [**Biology**](#bio)  
 
-[**pysical education**](#pe) 
+[**Physical Education**](#pe) 
 - [Shelly Mcdonald](#mcdonald)
 - [Zoe Dafniotis](#dafniotis)
 
 [**Humanities**](#hum)  
-- [*Jesus:He's everywhere*: Calogero Miceli](#jesus)
-- [*19th century thinker*: Maurice Dufour](#thinker)
-- [*strangers,gods and monsters*: Vanessa Sasson](#monster)
+- [*Jesus: He's everywhere*: Calogero Miceli](#jesus)
+- [*19th Century Thinker*: Maurice Dufour](#thinker)
+- [*Strangers, Gods and Monsters*: Vanessa Sasson](#monster)
 
 
 [**English**](#eng)  
@@ -44,7 +44,7 @@
 - [Marie Daudin](#daudin)
 
 [**Complementary**](#com)  
-- [Medival and renaissance art](#medival)
+- [Medieval and renaissance art](#medieval)
 - [Spanish](#spanish)
 - [Introduction to Business](#business)
 - [History of western civilization](#western)
@@ -76,7 +76,7 @@
 - 能接受高强度训练且有运动动力的可以去
 - 考试的题目意想不到，考的东西很奇怪。是一些在很细很细的东西
 
-### Zoe dafniotis <a name ="dafniotis"></a>
+### Zoe Dafniotis <a name ="dafniotis"></a>
 - 给分扣扣搜搜的，偏心。给分的标准看心情
 - 她的102舞蹈课，如果你想跳hiphop或者韩舞，或者你既没有舞蹈基础，又跳的不是特别好，或者记忆力不好忘动作，
  跳舞扭扭捏捏放不开，不会编舞等，都别选.
@@ -163,7 +163,7 @@
 
 ## Complementary <a name="com"></a>
 
-### Medieval and renaissance art: Megan Spriggs <a name="medival"></a>
+### Medieval and renaissance art: Megan Spriggs <a name="medieval"></a>
 - 慎重考虑型课程及老师
 - 对艺术历史有兴趣的可以选，没兴趣的避开。
 - 这名老师本人非常的专业，所以她的解释可能有些人会听不懂。而且上课不板书，不分享ppt且ppt中没有笔记，只有图。所以笔记只能靠自己
