@@ -7,6 +7,7 @@
 ## 学校邮箱帐号密码
 学校邮箱由Microsoft提供，可以去[Outlook](https://outlook.live.com/owa/)登录。
 学校邮箱有两种格式，两者都指向同一个邮箱，所以用哪个格式登录都可以。
+
 如果想问转专业，drop课或者gap一个学期等相关问题，可以联系advisor.一般来说是找Pauline.可发mio或邮件找他，也可以在onmivox上预约直接到学校找她亲自谈
   
 格式1: firstname.lastname@office.marianopolis.edu
