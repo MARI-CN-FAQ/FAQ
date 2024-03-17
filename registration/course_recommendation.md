@@ -41,10 +41,12 @@
 - [*Strangers, Gods, and Monsters*: Venessa Sasson✅✅](#monster)
 - [*Ethics & Cultural Appropriation*: Marie Lortie✅✅](#cul_approp)
 - [*Just Progress: the Ethics of Innovation*: Lisa Sumner (待补充)](#progress)
+- [*Understanding place: Partrizia Barbone](#understanding)
 
 [**Physical Education**](#pe)
 - [Julia Screase](#screase)
 - [Neal Epstein](#epstein)
+- [Alexandre Vachon-Gee](#Alexandre)
   
 [**English**](#eng) 
 - [Susan Pedersen✅✅](#pedersen)
@@ -63,7 +65,7 @@
 - [Introduction to International Relationship](#IR)
 - [Computer Graphics（待补充）](#com_graph)
 - [Digital Art](#digital)
-- [Theatre](#theatre)
+
   
 ---
 ## Calculus & Linear <a name="cal_linear"></a>
@@ -173,6 +175,11 @@
 - 优点：给分高
 - 缺点：欢迎补充差评
 
+### *Understanding place*: Patrizia Barbone<a name="understanding"></a>
+- 老师本人非常的很善解人意并且温柔
+- 对作业的要求很明确，所以可以很好的follow，很好拿高分
+- 不用背很多东西，但是有quiz，要好好读书
+- 给的分不错
 ## Physical Education<a name="pe"></a>
 
 ### Julia Screase<a name="screase"></a>
@@ -188,6 +195,11 @@
 - 真的可以学到如何玩飞盘和玩飞盘的规则
 - 建议：飞盘这门运动需要耗费大量的体力，一节课几乎全部都在跑，上课时注意量力而行
 
+### Alexandre Vachon-Gee<a name="Alexandre"></a>
+- 这位老师的102和103都很可以，老师本人超级温柔，被称为“男妈妈”
+- 他的课102:badminton 103: weight-training
+- 上课很有耐心，问他什么问题他都会回答
+- 给的分也不错，只要好号participate，好好写作业，分就够高
 
 ## English<a name="eng"></a>
   
@@ -238,8 +250,7 @@
 - 上她的课不需要记笔记，因为她都会发omnivox
 - 课的主题是电影。喜欢电影的人会非常喜欢她的课。会从看电影出发教授课程。（比如：形容词）
 - 有时会要求小组讨论。但如果法语不是特别流利的可以用英语甚至中文交流。
-- 缺点：欢迎补充
-- 注意：这位老师更适合101的同学选。
+
 
 ## Complementary<a name="com"></a>
   
@@ -272,11 +283,7 @@
 - 一个学期有五个Quiz。但都不难，只要认真听课都不会难，并且quiz期间不会的可以翻omnivox的笔记
 - 缺点；这门课非常的难抢，不管是alc的学生还是其他专业的都挺难抢的。2022年秋季全班只有2个complementary的学生。并且好像只有秋季有，但是还是希望大家试一试，毕竟好拿分
 
-### Theatre<a name="theatre"></a>
-- 这节课的老师Samson Christine真的是神仙。给分高人又好，去年平均92.
-- 学校的theatre分theatre technique, theatre creation和theatre exploration,全部都可以选。
-- 相比较digital art，没有那么难抢，所有专业的都可以尝试抢一抢。
-- 这节课不适合特别害羞社恐以及对表演和戏剧没有兴趣的人。因为有可能会和不认识的人合作，并且最后还有可能要在全班同学面前表演。
+
 
 
 
