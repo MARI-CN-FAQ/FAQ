@@ -48,6 +48,7 @@
 - [Spanish](#spanish)
 - [Introduction to Business](#business)
 - [History of western civilization](#western)
+- [digital music technology](#digital)
 
 
 ---
@@ -195,3 +196,9 @@
 - 之前考试的时候考了很多在课堂上说不会考的东西
 - 基本上所有跟hisotry有关的课程都慎重考虑。因为历史这门课需要大量的时间和精力
 
+### digital music technology <a name="digital"></a>
+- 慎重考虑型课程
+- 不知道是不是因为老师的phd拿了太多的原因，老师真的不会讲课。几乎班上一半以上的人一个字都听不懂
+- 这节课是digital music，但是上课没有跟music沾边的东西
+- 老师有一个workshop，是让大家学习上课要用的app怎么用。然后整一节课的workshop的内容就是exloring the app by yourself
+- 总结一下就是超级的无聊，不建议去选
