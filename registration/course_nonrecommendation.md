@@ -131,9 +131,11 @@
 ### Leon Berdichevsky <a name="berdichevsky"></a>
 - 在上过他课的人中拿下了焦虑率100％的好成绩。
 - 根据多名同学反应，这名老师的教学水平和人品都不怎么样
+- 打死都不要选
+- 非常的抓quotation，任何没有加quotation的都算作弊
 
 ### Peter Dube <a name="dube"></a>
-- 慎重考虑型课程及老师
+- 打死都不要选
 - 其实这名老师的讲课方式和文章是挺有意思的。但是给分非常十分严格
 - 102的课题是magic realism。课题很有意思，但是essay给分不好
 - 英语基础好的也不能考虑
