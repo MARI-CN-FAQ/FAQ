@@ -39,7 +39,6 @@
 [**Humanities**](#hum) 
 - [*Sex, Science, and Society*: Veronica Ponce✅✅](#sss)
 - [*Strangers, Gods, and Monsters*: Venessa Sasson✅✅](#monster)
-- [*Ethics & Cultural Appropriation*: Marie Lortie✅✅](#cul_approp)
 - [*Just Progress: the Ethics of Innovation*: Lisa Sumner (待补充)](#progress)
 - [*Understanding place: Partrizia Barbone](#understanding)
 
@@ -169,11 +168,7 @@
 - 会读一些fiction/nonfiction 然后作业是改编她的故事情节, 老师喜欢别出心裁的perspective
 - 优点：非常wholesome；老师情商很高，文字和语言华丽又精准
 - 缺点：欢迎补充差评
-  
-### *Ethics & Cultural Appropriation*: Marie Lortie<a name="cul_appropsss"></a>
-- 课如其名，如果是真的想知道cultural appropriation到底是对的错的的，怎么评价。这课有好好地回答这个问题。
-- 优点：给分高
-- 缺点：欢迎补充差评
+
 
 ### *Understanding place*: Patrizia Barbone<a name="understanding"></a>
 - 老师本人非常的很善解人意并且温柔
