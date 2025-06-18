@@ -42,6 +42,7 @@
 
 [**French**](#fr)  
 - [Marie Daudin](#daudin)
+- [Xavier Phaneuf-Jolicoeur](#Jolicoeur)
 
 [**Complementary**](#com)  
 - [Medieval and renaissance art](#medieval)
@@ -164,6 +165,12 @@
 - assignment太碎了。有的甚至只有百分之一。所以有可能会卡59
 - 这位老师100有个很奇葩的作业是采访路人，但只占百分之二。而且这个作业听说每年都有。
 - 建议：102/103的同学能避开就避开。100的同学如果避不开就多多的寻求帮助，寻找周围法语好的人或者老师。
+
+### Xavier Phaneuf-Jolicoeur <a name="Jolicoeur"></a>
+- 讲不明白话且没共情能力 
+- 课讲的超级烂，ppt看不懂，写得跟没写一样，也不会明确的带着大家写一两次作文
+- 课上更是没人愿意跟他互动
+- 考试的问题也很奇怪，基本不是正常人能想出来的，会问一些很刁钻角度的问题
 
 ## Complementary <a name="com"></a>
 
